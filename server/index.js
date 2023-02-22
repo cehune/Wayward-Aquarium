@@ -3,7 +3,7 @@ import express from 'express'
 import bodyParser from 'body-parser'
 import mongoose from 'mongoose'
 import cors from 'cors'
-import {data} from '../web-scraper/fish_data.js'
+
 
 
 const app = express();

@@ -6,13 +6,15 @@ const postSchema = mongoose.Schema({
         url: String,
         description: String,
         status: String,
-        tags:[String],
-        binomial: String,
+        scientific: String,
+        health_benefits: String,
+        quote: String,
+        tags: [String],
         img: String,
-        diet: String,
         cuisine_img: String,
-        cuisine: String,
-        liked: Boolean
+        liked: Boolean,
+        Taste: String,
+        Texture: String,
     }
 });
 
