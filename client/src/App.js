@@ -1,19 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import { useEffect } from 'react';
-
+import { useDispatch } from 'react-redux';
+import  {getPosts} from './actions/posts'
+import { Page } from './components/Page/Page';
 function App() {
-  let cool = [];
-  useEffect = () => {
-    fetch("https://www.fishwatch.gov/api/species")
-      .then((res) => res.json())
-      .then((data) => cool = data);
-  }
-  const gamer = () => {
-    console.log(cool[23]['Feeds'])
-    console.log(cool[23]['Feeds_'])
-    console.log(cool.length)
-  }
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(getPosts());
+  }, [dispatch])
   return (
     <div className="App">
       <header className="App-header">
@@ -21,8 +16,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <button onClick={useEffect}> great</button>
-        <button onClick = {gamer}>omg cute trans girl?</button>
+        <Page />
       </header>
     </div>
   );
