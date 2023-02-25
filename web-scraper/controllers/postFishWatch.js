@@ -36,7 +36,7 @@ export const getFishWatch = response => {
     }
 
     console.log(titles)
-    console.log(articles)
+    console.log(JSON.stringify(articles))
 
      //"DATA ONLY AVAILABLE FOR STINGRAYS IN GENERAL."
     

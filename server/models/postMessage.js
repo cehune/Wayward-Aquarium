@@ -1,7 +1,8 @@
 import mongoose from "mongoose";
 
+//create normal datas schema
 const postSchema = mongoose.Schema({
-    name: {
+
         title: String,
         url: String,
         description: String,
@@ -15,8 +16,9 @@ const postSchema = mongoose.Schema({
         liked: Boolean,
         Taste: String,
         Texture: String,
-    }
+    
 });
 
-const PostMessage = mongoose.model('PostMessage', postSchema);
+//'fish' is the collection in the database
+const PostMessage = mongoose.model('fish', postSchema);
 export default PostMessage;
