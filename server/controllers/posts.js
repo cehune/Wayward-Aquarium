@@ -17,7 +17,6 @@ export const getOne = async (req, res) => {
     try {
         await PostMessage.find({title: req.params.title}).then(function(fishes){
             res.send(fishes)
-            console.log(req.params)
         })
 
     }catch (error) {

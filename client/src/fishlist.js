@@ -231,6 +231,7 @@ export const options1 = [
 "Atlantic_Cod"
 ]
 
+//default state for the fish class. Just in case someone loads into the fish page. 
 export const default_fish = {
     title: "Atlantic_Wahoo",
     name: "Atlantic Wahoo",
@@ -247,3 +248,22 @@ export const default_fish = {
     Taste: "Mild.",
     Texture: "Firm with a large, circular flake."
 }
+//Gallery imgs default value states.
+//Replace whenever we call the google api to get new images for the fish gallery
+export const gallery_imgs = {
+    img1: "",
+    img2: "",
+    img3: "",
+    img4: "",
+    img5: "",
+    img6: "",
+    img7: "",
+    img8: "",
+    img9: ""
+}
+
+/*
+blue #A8DBFF 
+pink #F39C9C 
+green #A2F58C 
+*/

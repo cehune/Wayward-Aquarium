@@ -1,34 +1,50 @@
-import react, {useState, useEffect} from 'react';
+import {useState} from 'react';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { options, options1} from '../../../fishlist';
 import axios from 'axios'
+import { fetchGoogle, fetchGoogleCooked } from '../../../api/googleSearch';
+import {useNavigate} from 'react-router-dom';
 import { updateInfo } from '../UpdateInfo';
 
 
-export const Searchbar=({info, setInfo, fish, setFish, searchClear, setSearchClear}) => {
+export const Searchbar=({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
   const [inputValue, setInputValue] = useState('');
-  console.log(`1${searchClear}`)
+  const navigate = useNavigate();
   const fetchPosts = async(URL) => await axios.get(URL)
       .then((res) => {
           setInfo(updateInfo(res))
   })
+  const fetchImages = async(URL, cooked) => await axios.get(URL)
+      .then((res) => {
+        console.log(res.data.items[0].link)
+        console.log(cooked)
+          if (cooked !== true) {
+            setGallery(fetchGoogle(res))
+          } else if (cooked == true) {
+            setCookedGallery(fetchGoogleCooked(res))
+          }
+  })
+
 
   return (
     <div>
 
-      <br />
-      <Autocomplete
+      <Autocomplete 
 
         onChange={(event, newFish) => {
           if (newFish !== null) {
             setFish(newFish);
             fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${newFish}`)]}`);
+            //fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
+            //fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
+            
+            console.log(gallery.img1)
+            //if (window.location.pathname)
+            if (window.location.pathname !== '/fish') {
+              return navigate('/fish')
+            }
           }
-          if(searchClear) {
-
-          }
-          setSearchClear(false)
         }}
         inputValue={inputValue}
         onInputChange={(event, newInputValue) => {
@@ -37,13 +53,11 @@ export const Searchbar=({info, setInfo, fish, setFish, searchClear, setSearchCle
 
         id="controllable-states-demo"
         options={options}
-        sx={{ width: 300 }}
-        renderInput={  (params) => <TextField {...params} label="Fish" />}
+        sx={{ width: 225, background:"white",  borderRadius:20, margin: 2}}
+        renderInput={  (params) => <TextField {...params} label="Search Fish" size="medium" />}
       />
       
-      <button onClick={() => {
-        document.getElementsByClassName('MuiAutocomplete-clearIndicator')[0].click()
-      }}> yeah eyah</button>
+      
 
     </div>
   );

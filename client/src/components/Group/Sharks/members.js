@@ -1,0 +1,2 @@
+export const members = [  'Atlantic Sharpnose Shark',  'Pacific Common Thresher Shark',  'Pacific Shortfin Mako Shark',  'Atlantic Shortfin Mako Shark',
+'Atlantic Common Thresher Shark',  'Atlantic Blacktip Shark']
