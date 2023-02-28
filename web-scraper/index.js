@@ -9,15 +9,15 @@ const PORT = 8000;
 
 const app = express();
 
-//for FishWatch
+/*for FishWatch
 const url = 'https://www.fishwatch.gov/api/species';
 axios(url)
     .then(getFishWatch);
-
-/* for wikipedia
-const url = 'https://www.wikipedia/joe-biden
+*/
+/* for wikipedia */
+const url = 'https://en.wikipedia.org/wiki/Octopus'
 axios(url)
-    .then(getWiki); */
+    .then(getWiki); 
 
 app.listen(PORT, () => {
     console.log(`server is running on PORT ${PORT}`)

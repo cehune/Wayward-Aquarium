@@ -1,16 +1,17 @@
 import React from 'react'
-import { members } from './members'
+import {members} from './members'
 import { Link } from 'react-router-dom'
 import axios from 'axios'
-import {Button }from '@mui/material'
 import { Typography } from '@mui/material'
+import {Button }from '@mui/material'
 import createTheme from '@mui/material'
 import { options, options1 } from '../../../fishlist'
 import { fetchGoogle } from '../../../api/googleSearch'
 import { updateInfo } from '../../Search/UpdateInfo'
 import { fetchGoogleCooked } from '../../../api/googleSearch'
 import '../groupstyle.scss'
-export const OtherCategory = ({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
+
+export const CrustaceanCategory = ({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
   const fetchPosts = async(URL) => await axios.get(URL)
       .then((res) => {
           setInfo(updateInfo(res))
@@ -26,9 +27,9 @@ export const OtherCategory = ({info, setInfo, fish, setFish, gallery, setGallery
   })
 
   return (
-    <div className='category'>
-        <h1>Cephalopods</h1>
-        <div className='members' style={{display:"block"}}> 
+    <div className='category' >
+        <h1>Crustaceans</h1>
+        <div className='members'style={{display:"block"}}> 
         {members.map((element, i) => 
            <div> 
            <Link to='/fish' onClick = {() => {

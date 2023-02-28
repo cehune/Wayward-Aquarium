@@ -1,1 +1,0 @@
-export const members =['Longfin Inshore Squid',  'California Market Squid']

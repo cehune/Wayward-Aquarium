@@ -1,11 +1,28 @@
 .iconlink {
-    h4{
-        color: white;
+    h4 {
+        color:white;
+    }
+    .iconfull {
+
+        display: block;
+    }
+    .iconsmall{
+        display: none;
     }
 }
 
-.icon:hover {
-    h4{
-        color: "#F39C9C";
+
+@media (max-width: 800px) {
+
+    .iconlink {
+
+        .iconfull {
+
+            display: none;
+        }
+        .iconsmall{
+            display: block;
+        }
     }
+
 }

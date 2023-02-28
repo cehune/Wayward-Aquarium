@@ -13,6 +13,18 @@
             text-decoration: none;
             font-size: 3vh;
         }
+        p{
+            padding-left: 5%;
+            padding-right: 5%;
+        }
     }
     height: 40vh;
+
+    @media (max-width: 1200px) and (min-width: 801px) {
+        height: 50vh;
+
+    }
+    @media (max-width: 800px) {
+        height: 65vh;
+    }
 }

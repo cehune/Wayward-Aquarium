@@ -9,11 +9,11 @@ export const GroupSelect = () => {
       <div  className='card'>
           <h2>Marine Animal Categories</h2>
           <p>!!!More categories and more fish species are to be added soon!</p>
-            <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, ":hover": {background: "#F39C9C "}}}><Link to='/fishCategory' className='link'>Fish</Link></Button>
-            <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, ":hover": {background: "#F39C9C "}}}><Link to='/sharkCategory' className='link'>Sharks</Link></Button>
-            <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, ":hover": {background: "#F39C9C "}}}><Link to='/shellfishCategory' className='link'>Shellfish</Link></Button>
-            <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, ":hover": {background: "#F39C9C "}}}><Link to='/cephalopodCategory' className='link'>Cephalopods</Link></Button>
-            <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, ":hover": {background: "#F39C9C "}}}><Link to='/otherCategory' className='link'>Other</Link></Button>
+            <Link to='/fishCategory' className='link' onClick={() => window.scrollTo(0, 0)}> <Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, fontSize: 22, ":hover": {background: "#A0F69C "}}}>Fish</Button></Link>
+            <Link to='/sharkCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, fontSize: 22, ":hover": {background: "#A0F69C  "}}}>Sharks</Button></Link>
+            <Link to='/molluscCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, fontSize: 22, ":hover": {background: "#A0F69C "}}}>Molluscs</Button></Link>
+            <Link to='/crustaceanCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1,fontSize: 22,  ":hover": {background: "#A0F69C "}}}>Crustaceans</Button></Link>
+            <Link to='/otherCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, fontSize: 22, ":hover": {background: "#A0F69C "}}}>Other</Button></Link>
 
       </div>
      

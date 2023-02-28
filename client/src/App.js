@@ -7,9 +7,9 @@ import { Searchbar } from './components/Search/Searchbar/Searchbar';
 import { default_fish, gallery_imgs } from './fishlist';
 import { RandButton } from './components/Search/Button/RandButton';
 import { FishCategory } from './components/Group/Fish/FishCategory';
-import { ShellfishCategory } from './components/Group/Shellfish/ShellfishCategory';
+import { MolluscCategory } from './components/Group/Molluscs/MolluscCategory';
 import { SharkCategory } from './components/Group/Sharks/SharkCategory';
-import { CephalopodCategory } from './components/Group/Cephalopods/CephalopodCategory';
+import { CrustaceanCategory } from './components/Group/Crustacean/CrustaceanCategory';
 import { OtherCategory } from './components/Group/Other/OtherCategory';
 
 import { Navbar } from './components/Navbar/Navbar';
@@ -83,7 +83,7 @@ function App() {
                                                               gallery={gallery}
                                                               setCookedGallery={setCookedGallery}
                                                               cookedGallery={cookedGallery}/>}/>
-                <Route path='shellfishCategory' element={<ShellfishCategory info={info} 
+                <Route path='molluscCategory' element={<MolluscCategory info={info} 
                                                               setInfo={setInfo}
                                                               fish={fish}
                                                               setFish={setFish}
@@ -91,7 +91,7 @@ function App() {
                                                               gallery={gallery}
                                                               setCookedGallery={setCookedGallery}
                                                               cookedGallery={cookedGallery}/>}/>
-                <Route path='cephalopodCategory' element={<CephalopodCategory 
+                <Route path='crustaceanCategory' element={<CrustaceanCategory 
                                                               info={info} 
                                                               setInfo={setInfo}
                                                               fish={fish}

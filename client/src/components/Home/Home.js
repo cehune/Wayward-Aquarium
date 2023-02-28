@@ -8,7 +8,7 @@ export const Home = () => {
 <div>
     <div className='main'>
       <h1>wayward aquarium</h1>
-      <h3>Find fish in the search bar, categorical search, or randomized fish generator. Enjoy! - celine</h3>
+      <h3>Find fish in the search bar or randomized fish generator in the top right, or search by category below. Enjoy! </h3>
 
     </div>
     <GroupSelect />

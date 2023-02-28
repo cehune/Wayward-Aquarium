@@ -16,8 +16,8 @@
   'Atlantic Sharpnose Shark',
   'Pacific Sardine',
   'Pacific Oyster',
-  'Hard Clam/Northern Quahog',
-  'Geoduck ',
+  'Northern Quahog',
+  'Geoduck',
   'Eastern Oyster',
   'Blue Mussel',
   'Atlantic Salmon',
@@ -214,7 +214,7 @@
   'Cobia',
   'Atlantic Cod'
   ]
-  Shellfish: ['Hard Clam/Northern Quahog','Atlantic Surfclam', 'Geoduck','Pacific Oyster',
+  Shellfish: ['Northern Quahog','Atlantic Surfclam', 'Geoduck','Pacific Oyster',
 
   'Eastern Oyster',  'Blue Mussel',   'Alaska Snow Crab',
   'Ocean Quahog',   'Queen Conch',

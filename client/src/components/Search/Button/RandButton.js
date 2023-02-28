@@ -16,7 +16,7 @@ export const RandButton = ({info, setInfo, fish, setFish, searchClear, setSearch
 
 
   return (
-    <Button sx={{background: "#B7E5FF", borderRadius:20, marginTop: 2, marginBottom: 2}}
+    <Link to="/fish" style={{textDecoration: "none", color: "black"}}><Button sx={{background: "#B7E5FF", borderRadius:20, padding: 2,marginTop: 2, marginBottom: 2, color: "black"}}
     
     onClick = {()=> {
           const randomFish = options1[Math.floor(Math.random() * options1.length)];
@@ -24,6 +24,6 @@ export const RandButton = ({info, setInfo, fish, setFish, searchClear, setSearch
           if (document.getElementsByClassName('MuiAutocomplete-clearIndicator').length > 0) {
             document.getElementsByClassName('MuiAutocomplete-clearIndicator')[0].click()
           }
-     }} variant='contained'><Link to="/fish" style={{textDecoration: "none", color: "black"}}>Random Fish</Link></Button>
+     }} variant='contained'>Random Fish</Button></Link>
   )
 }

@@ -18,8 +18,8 @@ export const options = [
 "Atlantic Sharpnose Shark",
 "Pacific Sardine",
 "Pacific Oyster",
-"Hard Clam/Northern Quahog",
-"Geoduck ",
+"Northern Quahog",
+"Geoduck",
 "Eastern Oyster",
 "Blue Mussel",
 "Atlantic Salmon",
@@ -112,7 +112,17 @@ export const options = [
 "Monkfish",
 "Atlantic Mahi Mahi",
 "Cobia",
-"Atlantic Cod"
+"Atlantic Cod",
+"Tiger Prawn",
+"Octopus",
+"Japanese Flying Squid",
+"Humboldt Squid",
+"Crucian Carp",
+"Bighead Carp",
+"Mozambique_Tilapia",
+"Blue Tilapia",
+"Nile tilapia",
+"American Paddlefish"
 ]
 export const options1 = [
 "Devil_fish",
@@ -134,8 +144,8 @@ export const options1 = [
 "Atlantic_Sharpnose_Shark",
 "Pacific_Sardine",
 "Pacific_Oyster",
-"Hard_Clam/Northern_Quahog",
-"Geoduck_",
+"Northern_Quahog",
+"Geoduck",
 "Eastern_Oyster",
 "Blue_Mussel",
 "Atlantic_Salmon",
@@ -228,7 +238,17 @@ export const options1 = [
 "Monkfish",
 "Atlantic_Mahi_Mahi",
 "Cobia",
-"Atlantic_Cod"
+"Atlantic_Cod",
+"Tiger_Prawn",
+"Octopus",
+"Japanese_Flying Squid",
+"Humboldt_Squid",
+"Crucian_Carp",
+"Bighead_Carp",
+"Mozambique_Tilapia",
+"Blue_Tilapia",
+"Nile_tilapia",
+"American_Paddlefish",
 ]
 
 //default state for the fish class. Just in case someone loads into the fish page. 

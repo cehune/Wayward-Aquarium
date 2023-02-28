@@ -631,8 +631,8 @@ export const data = {
         Taste: 'Ranges from sweet to briny.',
         Texture: null
       },
-      'Hard Clam/Northern Quahog': {
-        title: 'Hard Clam/Northern Quahog',
+      'Northern Quahog': {
+        title: 'Northern Quahog',
         url: 'https://www.fishwatch.gov/',
         description: 
           'Are of the shellfish family. Like oysters, mussels, and scallops they are bivalve mollusks, and have a hinged shell.' +
@@ -654,8 +654,8 @@ export const data = {
         Taste: 'Mild flavor, sweet, and briny.',
         Texture: null
       },
-      'Geoduck ': {
-        title: 'Geoduck ',
+      'Geoduck': {
+        title: 'Geoduck',
         url: 'https://www.fishwatch.gov/',
         description: 
           'Geoducks are long-lived; the oldest ever recorded was 168 years old.' +

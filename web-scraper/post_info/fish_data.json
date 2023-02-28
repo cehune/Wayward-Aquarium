@@ -1,21 +1,26 @@
-[{
-    "title": "Devil_fish",
-    "name": "Devil fish",
-    "url": "https://en.wikipedia.org/wiki/Devil_fish",
-    "description": "The devil fish or giant devil ray (Mobula mobular) is a species of ray in the family Mobulidae. It is currently listed as endangered, mostly due to bycatch mortality in unrelated fisheries. The devil fish is larger than its close relative the lesser devil ray. It grows to a length of disk 3.5 metres (11 ft), making it one of the largest rays. It possesses a spiny tail.[4] The devil fish is the third largest species in the genus Mobula, after the oceanic and reef manta rays. It is the only mobulid species that lives in the Mediterranean Sea. The species has been observed to have a maximum recorded length of disk width of 5.2 meters (roughly 17 feet).[5] However, those data are unreliable and are allegedly misunderstood as Giant oceanic Manta Rays that have strayed into the Mediterranean.[6][7] It is also considered to be the only Devil fish with a tail spine.[6][7] The species is also considered endangered given its decreasing population density.[8] The Devil fish is most common in the Mediterranean Sea. It is also found in the Eastern Atlantic Ocean, off the southwest coast of Ireland and south of Portugal, as well as in the central and western Pacific Ocean.[4] In the Mediterranean Sea, the species has a basin-wide distribution[8] and is most frequent in the eastern Mediterranean and the Adriatic Sea.[9] The large aggregations observed in the Levantine basin could signal an important mating area.[9] Devil fish inhabit offshore areas to the neritic zone, their range as deep as several thousand meters.  They are typically observed in small clusters, and may occasionally form larger groups.[1] Giant devil rays are usually seen in deep coastal waters but are occasionally seen in shallow waters. In a tagging experiment conducted by the Italian National Institute for Environmental Protection and Research (ISPRA), three giant devil rays were tagged and their depth was observed throughout different times of the day. The rays reached a maximum depth of 600–700 meters (1960–2300 feet) but mostly spent their time between 0 and 50 meters (0 and 165 feet); they prefer warmer waters with a temperature between 20 °C and 29 °C (68 °F and 84 °F). The giant devil rays also deep dive at random times, instances not correlated to the time of day unlike how other species deep dive at specific times of day.[5] In other observations studying ray abundance and habitat, giant devil rays were observed alone and occasionally in groups with a maximum of 18 rays. The same study also emphasizes that the rays undergo a species migration across the Mediterranean Sea with the seasons, taking advantage of warm, highly productive waters.[10]",
-    "status": "Endangered (IUCN 3.1)[1]",
-    "scientific": "Mobula mobular",
-    "health_benefits": "Rays have tons of protein, carbs, and vitamins, but a whole lotta fat!",
-    "quote": "Let's name the zones the zones the zones let's name the zones of the open sea. - Mr. Ray, Finding Nemo, 2003",
-    "tags": ["Ray", "Flat", "Cool!"],
-    "img": "",
-    "category": "'Ray'",
-    "cuisine_img": "https://i.ytimg.com/vi/XVmHUmuVEg8/maxresdefault.jpg",
-    "liked": false,
-    "Taste": "DATA ONLY AVAILABLE FOR STINGRAYS IN GENERAL. Stingrays are popular to eat in countries such as Malaysia and Singapore, and seen as a delicacy in many areas. They're commonly cooked over charcoal with spicy sambal sauce or soy sauce. The Pastel de chucho (Stingray Pie) is a popular dish is Eastern Venezuela.Generally, the most desired parts of the stingray are the fleshy wings, the cheek (the area surrounding the eyes), and the liver. The rest of the ray is considered too rubbery, due to the large amounts of cartilage, to have any other culinary uses. They taste like a mix of white-fleshed fish and lobster",
-    "Texture": "Rays are flaky and dense. Like a really heavy fish."
-},
-{
+[
+    {
+        "title": "Devil_fish",
+        "name": "Devil fish",
+        "url": "https://en.wikipedia.org/wiki/Devil_fish",
+        "description": "The devil fish or giant devil ray (Mobula mobular) is a species of ray in the family Mobulidae. It is currently listed as endangered, mostly due to bycatch mortality in unrelated fisheries. The devil fish is larger than its close relative the lesser devil ray. It grows to a length of disk 3.5 metres (11 ft), making it one of the largest rays. It possesses a spiny tail.[4] The devil fish is the third largest species in the genus Mobula, after the oceanic and reef manta rays. It is the only mobulid species that lives in the Mediterranean Sea. The species has been observed to have a maximum recorded length of disk width of 5.2 meters (roughly 17 feet).[5] However, those data are unreliable and are allegedly misunderstood as Giant oceanic Manta Rays that have strayed into the Mediterranean.[6][7] It is also considered to be the only Devil fish with a tail spine.[6][7] The species is also considered endangered given its decreasing population density.[8] The Devil fish is most common in the Mediterranean Sea. It is also found in the Eastern Atlantic Ocean, off the southwest coast of Ireland and south of Portugal, as well as in the central and western Pacific Ocean.[4] In the Mediterranean Sea, the species has a basin-wide distribution[8] and is most frequent in the eastern Mediterranean and the Adriatic Sea.[9] The large aggregations observed in the Levantine basin could signal an important mating area.[9] Devil fish inhabit offshore areas to the neritic zone, their range as deep as several thousand meters.  They are typically observed in small clusters, and may occasionally form larger groups.[1] Giant devil rays are usually seen in deep coastal waters but are occasionally seen in shallow waters. In a tagging experiment conducted by the Italian National Institute for Environmental Protection and Research (ISPRA), three giant devil rays were tagged and their depth was observed throughout different times of the day. The rays reached a maximum depth of 600–700 meters (1960–2300 feet) but mostly spent their time between 0 and 50 meters (0 and 165 feet); they prefer warmer waters with a temperature between 20 °C and 29 °C (68 °F and 84 °F). The giant devil rays also deep dive at random times, instances not correlated to the time of day unlike how other species deep dive at specific times of day.[5] In other observations studying ray abundance and habitat, giant devil rays were observed alone and occasionally in groups with a maximum of 18 rays. The same study also emphasizes that the rays undergo a species migration across the Mediterranean Sea with the seasons, taking advantage of warm, highly productive waters.[10]",
+        "status": "Endangered (IUCN 3.1)[1]",
+        "scientific": "Mobula mobular",
+        "health_benefits": "Rays have tons of protein, carbs, and vitamins, but a whole lotta fat!",
+        "quote": "Let's name the zones the zones the zones let's name the zones of the open sea. - Mr. Ray, Finding Nemo, 2003",
+        "tags": [
+            "Ray",
+            "Flat",
+            "Cool!"
+        ],
+        "img": "",
+        "category": "'Ray'",
+        "cuisine_img": "https://i.ytimg.com/vi/XVmHUmuVEg8/maxresdefault.jpg",
+        "liked": false,
+        "Taste": "DATA ONLY AVAILABLE FOR STINGRAYS IN GENERAL. Stingrays are popular to eat in countries such as Malaysia and Singapore, and seen as a delicacy in many areas. They're commonly cooked over charcoal with spicy sambal sauce or soy sauce. The Pastel de chucho (Stingray Pie) is a popular dish is Eastern Venezuela.Generally, the most desired parts of the stingray are the fleshy wings, the cheek (the area surrounding the eyes), and the liver. The rest of the ray is considered too rubbery, due to the large amounts of cartilage, to have any other culinary uses. They taste like a mix of white-fleshed fish and lobster",
+        "Texture": "Rays are flaky and dense. Like a really heavy fish."
+    },
+    {
         "title": "Crimson_Jobfish",
         "name": "Crimson Jobfish",
         "url": "https://www.fishwatch.gov/",
@@ -24,14 +29,18 @@
         "scientific": "Pristipomoides filamentosus",
         "health_benefits": "Crimson jobfish is a great source of lean, healthy protein and rich in vitamins.",
         "quote": "U.S. wild-caught crimson jobfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Employed",
+            "Delicate"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Crimson jobfish has a delicate flavor.",
         "Texture": "Crimson jobfish hasa firm texture and can be prepared in a variety of ways from steaming smaller-sized fish to fillets for sashimi."
     },
-   {
+    {
         "title": "White_Hake",
         "name": "White Hake",
         "url": "https://www.fishwatch.gov/",
@@ -40,14 +49,18 @@
         "scientific": "Urophycis tenuis",
         "health_benefits": "White hake is a lean source of protein.",
         "quote": "U.S. wild-caught white hake is a smart seafood choice because it is sustainably managed under a rebuilding plan that allows limited harvest under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Lean",
+            "53 Inches long"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "White hake has a mild, almost sweettaste.",
         "Texture": "White hake has a soft, delicate texture that does not stand up well to freezing."
     },
- {
+    {
         "title": "Atlantic Chub Mackerel",
         "url": "https://www.fishwatch.gov/",
         "description": "Atlantic chub mackerel grow up to 22 inches long and 3.5 pounds.They have a life span of up to about 7 years.They mainly feed on small crustaceans called copepods and tiny aquatic animals known as wheel animals or rotifers.",
@@ -55,14 +68,18 @@
         "scientific": "Scomber colias",
         "health_benefits": "Chub mackerel is high in omega-3 fatty acids.",
         "quote": "U.S. wild-caught Atlantic chub mackerel is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "22 Inches Long",
+            "Desireable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Rich, pronounced flavor.",
         "Texture": "Soft, flaky, and moist."
     },
-   {
+    {
         "title": "Shortfin_Squid",
         "name": "Shortfin Squid",
         "url": "https://www.fishwatch.gov/",
@@ -71,14 +88,18 @@
         "scientific": "Illex illecebrosus",
         "health_benefits": "Squid are an excellent source of selenium, riboflavin, and vitamin B12.",
         "quote": "U.S. wild-caught shortfin squid is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Cephalopod",
+            "Vitamin B12 Source",
+            "Small"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, and subtly sweet.",
         "Texture": "Firm and meaty."
     },
-{
+    {
         "title": "American_Lobster",
         "name": "American Lobster",
         "url": "https://www.fishwatch.gov/",
@@ -87,46 +108,61 @@
         "scientific": "Homarus americanus",
         "health_benefits": "Lobster is low in saturated fat and is a very good source of protein and selenium. The FDA \"https://www.fda.gov/downloads/food/guidanceregulation/ucm252395.pdf\"advises consumers to not eat the tomalley, the light-green substance found in the lobster.",
         "quote": "U.S. wild-caught American lobster is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shellfish",
+            "Crustacean",
+            "Cuddly",
+            "Expensive",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "The meat is firm and somewhat fibrous. The tail meat is firmer than the meat from the claws."
     },
- {
+    {
         "title": "Yellowtail_Rockfish",
         "name": "Yellowtail Rockfish",
         "url": "https://www.fishwatch.gov/",
-        "description": "Yellowtail rockfish mature between three and five years old.They can live up to 50 years.They grow more than two feet in length.Females can produce between 50,000 and 600,000 eggs, depending on the size of the female.Yellowtail rockfish have internal fertilization and the females give birth to live young.Adults feed on shellfish, such as shrimp, and small forage fish, such as anchovies.Yellowtail rockfish are unique in that they can rapidly release gas from their swim bladders.When caught at depth the yellowtail rockfish can avoid barotrauma that kills most other species.",
+        "description": "Yellowtail rockfish mature between three and five years old.They can live up to 50 years.They grow more than two feet in length.Females can produce between 50,000 and 600,000 eggs, depending on the size of the female.Yellowtail rockfish have internal fertilization and the females give birth to live young. Adults feed on shellfish, such as shrimp, and small forage fish, such as anchovies. Yellowtail rockfish are unique in that they can rapidly release gas from their swim bladders.When caught at depth the yellowtail rockfish can avoid barotrauma that kills most other species.",
         "status": "There are two stocks of yellowtail rockfish: northern Pacific coast and one stock containedin the Minor Shelf Rockfish South Complex. According to the most recent stock assessments:The northern Pacific coast stock is not overfished (2017 stock assessment) and not subject to overfishing based on 2020catch data. Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?stockname=Yellowtail%20rockfish%20-%20Northern%20Pacific%20Coast&amp;stockid=10393\".Yellowtail rockfish is managed as part oftheMinor Shelf Rockfish South Complex, but this stock complex has not been assessed sothe overfished status is unknown. This complex is not subject to overfishing based on 2021catch data.",
         "scientific": "Sebastes flavidus",
         "health_benefits": "Rockfish are high in selenium.",
         "quote": "U.S. wild-caught Yellowtail rockfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable",
+            "Lean"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Very mild, slightly sweet flavor.",
         "Texture": "Very lean with medium to firm texture and medium sized flakes."
     },
- {
+    {
         "title": "Bocaccio",
         "name": "Bocaccio",
         "url": "https://www.fishwatch.gov/",
-        "description": "Bocaccio is a species of rockfish. Rockfishes are unusual among the bony fishes in that fertilization and embryo development is internal and female rockfish give birth to live larval young.Like most other species of rockfish, bocaccio are long-lived. Bocaccio mature and begin to reproduce between ages 4 and 7 years old, and they can live to be 50 years old.Bocaccio larvae are opportunistic feeders. Early on, larvae mostly eat copepod nauplii and eat some invertebrate eggs. As they grow, larvae start eating copepodites, adult copepods, and euphausiids.Within the first year of their lives, bocaccio begin foraging on other young fishes.Adult bocaccio mostly eat fish. Their preferred meal is other rockfishes, but they will also eat \"https://www.fishwatch.gov/profiles/sablefish\"sablefish, anchovies, lantern fish and squid.Female bocaccio may spawn one to three times per season. They are highly fecund for rockfish and have been recorded with anywhere from 290 thousand up to 1.9 million eggs in the ovaries at one time.In the Southern California Bight, Bocaccio spawn from October to July, peaking in January. Off central and northern California, Bocaccio spawn from January to May and peak in February.",
+        "description": "Bocaccio is a species of rockfish. Rockfishes are unusual among the bony fishes in that fertilization and embryo development is internal and female rockfish give birth to live larval young.Like most other species of rockfish, bocaccio are long-lived. Bocaccio mature and begin to reproduce between ages 4 and 7 years old, and they can live to be 50 years old.Bocaccio larvae are opportunistic feeders. Early on, larvae mostly eat copepod nauplii and eat some invertebrate eggs. As they grow, larvae start eating copepodites, adult copepods, and euphausiids.Within the first year of their lives, bocaccio begin foraging on other young fishes.Adult bocaccio mostly eat fish. Their preferred meal is other rockfishes, but they will also eat sablefish, anchovies, lantern fish and squid.Female bocaccio may spawn one to three times per season. They are highly fecund for rockfish and have been recorded with anywhere from 290 thousand up to 1.9 million eggs in the ovaries at one time.In the Southern California Bight, Bocaccio spawn from October to July, peaking in January. Off central and northern California, Bocaccio spawn from January to May and peak in February.",
         "status": "There are three stocks of bocaccio: Southern Pacific Coast, one stock contained in a stock complex along the northern Pacific coast, and one stock contained in a stock complex in the Gulf of Alaska. According to the most recent stock assessments:The Southern Pacific Coast stock is not overfished (2017 stock assessment) and not subject to overfishing based on 2020catch data. Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?stockname=Bocaccio%20-%20Southern%20Pacific%20Coast&amp;stockid=10413\". This stock had been overfished and was successfully rebuilt in 2017.Bocaccio is managed as part of the Minor Shelf Rockfish North Complex, but hasnot been assessed so the overfished statusis unknown. The complexis not subject to overfishingbased on 2020catch data.Bocacciois managed as part of the Gulf of Alaska Other Rockfish Complex and has been assessed, but there is not enough information to determine the population size so the overfished status is unknown (2021 stock assessment). Thiscomplex is not subject to overfishing based on 2021catch data.Summary stock assessment information can be found on\"https://www.st.nmfs.noaa.gov/stocksmart?stockname=Gulf%20of%20Alaska%20Other%20Rockfish%20Complex&amp;stockid=11804\".",
         "scientific": "Sebastes paucispinis",
         "health_benefits": "Low in saturated fat and very high in selenium, phosphorus, and potassium.",
         "quote": "U.S. wild-caught bocaccio is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Rockfish",
+            "Sustainable",
+            "Delicate"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Delicate, nutty, sweet flavor.",
         "Texture": "Lean and medium-firm, with a fine flake."
     },
-{
+    {
         "title": "Sugar_Kelp",
         "name": "Sugar Kelp",
         "url": "https://www.fishwatch.gov/",
@@ -135,14 +171,18 @@
         "scientific": "Saccharina latissima",
         "health_benefits": "High in fiber, anti-oxidants, vitamins, and minerals.",
         "quote": "U.S. farmed sugar kelp is a smart seafood choice because it is grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Not Fish",
+            "Federally Managed",
+            "Crunchy"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sugar kelp has a savory and slightly sweet flavor. When dried, a white, sweet-tasting powder forms on the blade.",
         "Texture": "Crunchy texture."
     },
-{
+    {
         "title": "Atlantic_Halibut",
         "name": "Atlantic Halibut",
         "url": "https://www.fishwatch.gov/",
@@ -151,14 +191,20 @@
         "scientific": "Hippoglossus hippoglossus",
         "health_benefits": "Halibut is low in saturated fat and sodium, and is a very good source of protein, niacin, phosphorus, and selenium.",
         "quote": "U.S. wild-caught Atlantic halibut is a smart seafood choice because it is sustainably managed under a rebuilding plan that allows limited harvest by U.S. fishermen.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Flatfish",
+            "Largest Flatfish",
+            "So Large that it can reach up to 15 feet (see description",
+            "Hippoglossus x2"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Halibut has a very mild, sweet taste.",
         "Texture": "A lean fish with fine-grained, dense meat. When cooked, the meat is firm yet flaky and tender."
     },
- {
+    {
         "title": "Shortspine_Thornyhead",
         "name": "Shortspine Thornyhead",
         "url": "https://www.fishwatch.gov/",
@@ -167,14 +213,19 @@
         "scientific": "Sebastolobus alascanus",
         "health_benefits": "Rockfish are high in selenium.",
         "quote": "U.S. wild-caught shortspine thornyhead is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Rockfish",
+            "Course Flake"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet and mild.",
         "Texture": "Firm, coarse flake."
     },
-  {
+    {
         "title": "Canary_Rockfish",
         "name": "Canary Rockfish",
         "url": "https://www.fishwatch.gov/",
@@ -183,14 +234,18 @@
         "scientific": "Sebastes pinniger",
         "health_benefits": "Rockfish are high in selenium.",
         "quote": "U.S. wild-caught canary rockfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Rockfish",
+            "Sustainable",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Delicate, nutty, sweet flavor.",
         "Texture": "Lean and medium-firm, with a fine flake."
     },
-{
+    {
         "title": "Black_Grouper",
         "name": "Black Grouper",
         "url": "https://www.fishwatch.gov/",
@@ -199,14 +254,18 @@
         "scientific": "Mycteroperca bonaci",
         "health_benefits": "Grouper is low in saturated fat. It is a good source of vitamins B6 and B12, phosphorus, potassium, protein and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught black grouper is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Sustainable",
+            "Fish",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Grouper has a mild but distinct flavor, somewhere between bass and halibut. Gag is sometimes mistakenly referred to as black grouper in the market. The two species are very similar in taste and texture.",
         "Texture": "Firm."
     },
- {
+    {
         "title": "Striped_Marlin",
         "name": "Striped Marlin",
         "url": "https://www.fishwatch.gov/",
@@ -215,14 +274,18 @@
         "scientific": "Kajikia audax",
         "health_benefits": "Striped marlin is an excellent source of extra-lean protein. It is low in saturated fat and sodium. It is rich in niacin, vitamins B6 and B12, phosphorus, selenium, and omega-3 fatty acids.",
         "quote": "U.S. wild-caught striped marlin is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Sustainable",
+            "Fine Dining",
+            "Deceitful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Distinctive flavor similar to but more pronounced than swordfish. It is considered the finest eating of all marlin species.",
         "Texture": "Firm."
     },
- {
+    {
         "title": "Blueline_Tilefish",
         "name": "Blueline Tilefish",
         "url": "https://www.fishwatch.gov/",
@@ -231,14 +294,18 @@
         "scientific": "Caulolatilus microps",
         "health_benefits": "Blueline tilefish is low in sodium. It is a good source of niacin, phosphorus, protein, vitamin B12, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught blueline tilefish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Trustworthy",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Blueline tilefish has a mild sweet flavor, similar to lobster or crab. It is similar in taste to \"https://www.fishwatch.gov/profiles/tilefish\"golden tilefish. Almost all tilefish is sold fresh.",
         "Texture": "Firm but tender."
     },
- {
+    {
         "title": "Red_Hake",
         "name": "Red Hake",
         "url": "https://www.fishwatch.gov/",
@@ -247,14 +314,18 @@
         "scientific": "Urophycis chuss",
         "health_benefits": "Red hake is a good source of selenium, vitamin B, magnesium, and protein.",
         "quote": "U.S. wild-caught red hake is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Cod",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and slightly sweet. Hake can be substituted in many dishes calling for pollock or cod.",
         "Texture": "Hakes have softer flesh and are less flaky than other whitefish such as cod, haddock, and pollock."
     },
- {
+    {
         "title": "Atlantic_Sharpnose_Shark",
         "name": "Atlantic Sharpnose Shark",
         "url": "https://www.fishwatch.gov/",
@@ -263,14 +334,18 @@
         "scientific": "Rhizoprionodon terraenovae",
         "health_benefits": "Shark is a low-fat source of protein that is high in selenium and vitamins B6 and B12. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Atlantic sharpnose shark is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shark",
+            "32 Inches Long",
+            "Desireable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Reported to be quite tasty.",
         "Texture": null
     },
- {
+    {
         "title": "Pacific_Sardine",
         "name": "Pacific Sardine",
         "url": "https://www.fishwatch.gov/",
@@ -279,14 +354,18 @@
         "scientific": "Sardinops sagax caerulea",
         "health_benefits": "Sardines are a very good source of selenium and vitamin B12 and a good source of calcium, niacin, phosphorus, and omega-3 fatty acids.",
         "quote": "Commercial fishing for Pacific sardines is prohibited because the population is estimated to be below a precautionary level set by managers.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Small",
+            "Precautionary Fishing"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "When fresh, small sardines have a delicate flavor. Larger sardines have a fuller, oilier flavor, similar to anchovies but milder. If buying fresh, look for sardines with bright eyes, shiny skin, and a mildly fishy aroma. Plan to cook them within a day of purchase.",
         "Texture": "Firm when canned; soft when fresh."
     },
- {
+    {
         "title": "Pacific_Oyster",
         "name": "Pacific Oyster",
         "url": "https://www.fishwatch.gov/",
@@ -295,30 +374,38 @@
         "scientific": "Crassostrea gigas",
         "health_benefits": "Oysters are low in saturated fat and excellent sources of omega-3 fatty acids and iron.",
         "quote": "U.S. farmed Pacific oysters are a smart seafood choice because they are sustainably grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Sustainable",
+            "Secretive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Ranges from sweet to briny.",
         "Texture": null
     },
- {
-        "title": "Hard_Clam/Northern_Quahog",
-        "name": "Hard Clam/Northern Quahog",
+    {
+        "title": "Northern_Quahog",
+        "name": "Northern Quahog",
         "url": "https://www.fishwatch.gov/",
         "description": "Are of the shellfish family. Like oysters, mussels, and scallops they are bivalve mollusks, and have a hinged shell.Clams have slow growth rates and can live 12 to 20 years on averageand up to 40 years.Adults are sessile—they stay in one place—and inhabit both intertidal and subtidal areas.Clams burrow into the sediment, leaving only their siphons exposed to feed.Hard clams prefer saline water and cannot survive if the salt content is too low.Each female can produce between 1 and 5 million eggs during a spawning event.",
         "status": null,
         "scientific": "Mercenaria mercenaria",
         "health_benefits": "Clams are excellent sources of omega-3 fatty acids.",
         "quote": "U.S. farmed Hard clams are a smart seafood choice because they are sustainably grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Secretive",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild flavor, sweet, and briny.",
         "Texture": null
     },
- {
+    {
         "title": "Geoduck",
         "name": "Geoduck",
         "url": "https://www.fishwatch.gov/",
@@ -327,14 +414,17 @@
         "scientific": "Panopea generosa",
         "health_benefits": "Geoducks are excellent sources of protein and iron.",
         "quote": "U.S. farmed geoducks are a smart seafood choice because they are sustainably grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Undesireable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "The neck is tough and crunchy while the belly meat is tender and sweet.",
         "Texture": null
     },
- {
+    {
         "title": "Eastern_Oyster",
         "name": "Eastern Oyster",
         "url": "https://www.fishwatch.gov/",
@@ -343,14 +433,17 @@
         "scientific": "Crassostrea virginica",
         "health_benefits": "Oysters are low in saturated fat and excellent sources of omega-3 fatty acids and iron.",
         "quote": "U.S. farmed Eastern oysters are a smart seafood choice because they are sustainably grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Eastern"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Ranges from sweet to briny.",
         "Texture": null
     },
-  {
+    {
         "title": "Blue_Mussel",
         "name": "Blue Mussel",
         "url": "https://www.fishwatch.gov/",
@@ -359,15 +452,18 @@
         "scientific": "Mytilus edulis",
         "health_benefits": "Mussels are low in saturated fat and excellent sources of omega-3 fatty acids.",
         "quote": "U.S. farmed Blue mussels are a smart seafood choice because they are sustainably grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Delightful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Tender meat and sweet flavor.",
         "Texture": null
     },
-{
-        "title": "Atlantic _almon",
+    {
+        "title": "Atlantic_Salmon",
         "name": "Atlantic Salmon",
         "url": "https://www.fishwatch.gov/",
         "description": "Spawning females lay an average of 7,500 eggs.Juvenile “smolts” grow much faster in saltwater than in freshwater.Growth rates vary, depending on season, age, sex and population density.After two years at sea, adult salmon have an average length of 28 to 30 inches and a weight of 8 to 12 pounds.Atlantic salmon do not die after spawning.",
@@ -375,14 +471,19 @@
         "scientific": "Salmo salar",
         "health_benefits": "Farmed salmon is low in sodium and contains high levels of omega-3 fatty acids and vitamin B12.",
         "quote": "U.S. farmed Atlantic Salmon is a smart seafood choice because it is grown and harvested under U.S. state and federal regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Salmon",
+            "Small",
+            "Buttery"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Buttery, rich taste.",
         "Texture": "Firm and fatty, rich in omega-3 fatty acids."
     },
-{
+    {
         "title": "Butterfish",
         "name": "Butterfish",
         "url": "https://www.fishwatch.gov/",
@@ -391,14 +492,17 @@
         "scientific": "Peprilus triacanthus",
         "health_benefits": "Butterfish is a good source of niacin, vitamin B6, phosphorus, protein, vitamin B12, and selenium.",
         "quote": "U.S. wild-caught butterfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Oily"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Fatty, oily, and delicious.",
         "Texture": null
     },
- {
+    {
         "title": "Winter_Skate",
         "name": "Winter Skate",
         "url": "https://www.fishwatch.gov/",
@@ -407,14 +511,18 @@
         "scientific": "Leucoraja ocellata",
         "health_benefits": null,
         "quote": "U.S. wild-caught winter skate is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Hobby",
+            "Lovely"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild flavor that is similar to scallops.",
         "Texture": "Firm and stringy."
     },
- {
+    {
         "title": "Pink_Salmon",
         "name": "Pink Salmon",
         "url": "https://www.fishwatch.gov/",
@@ -423,14 +531,18 @@
         "scientific": "Oncorhynchus gorbuscha",
         "health_benefits": "Pink salmon is low in sodium and is a good source of omega-3 fatty acids, protein, niacin, vitamin B12, and selenium.",
         "quote": "U.S. wild-caught pink salmon is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Salmon",
+            "Marvelous"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Pink salmon has a low oil content so it’s generally lean and mild-flavored.",
         "Texture": "Softer meat than most salmon with a small flake."
     },
- {
+    {
         "title": "Atlantic_Northern_Shrimp",
         "name": "Atlantic Northern Shrimp",
         "url": "https://www.fishwatch.gov/",
@@ -439,14 +551,18 @@
         "scientific": "Pandalus borealis",
         "health_benefits": "Northern shrimp are low in saturated fat and high in iron, phosphorus, and zinc.",
         "quote": "Commercial fishing for northern shrimp is prohibited due to its extremely depleted state.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Small",
+            "Ambitious"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet and more flavorful than warm-water shrimp.",
         "Texture": "Firm and moist."
     },
-{
+    {
         "title": "North_Pacific_Swordfish",
         "name": "North Pacific Swordfish",
         "url": "https://www.fishwatch.gov/",
@@ -455,14 +571,18 @@
         "scientific": "Xiphias gladius",
         "health_benefits": "Swordfish is an excellent source of selenium, niacin, vitamin B12, and zinc. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught North Pacific swordfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Fast",
+            "Aerodynamic"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Moist, flavorful, and slightly sweet.",
         "Texture": "Firm, with a moderately high oil content."
     },
- {
+    {
         "title": "Atlantic_Mackerel",
         "name": "Atlantic Mackerel",
         "url": "https://www.fishwatch.gov/",
@@ -471,14 +591,18 @@
         "scientific": "Scomber scombrus",
         "health_benefits": "Mackerel is high in omega-3 fatty acids and is an excellent source of selenium, niacin, and vitamins B6 and B12.",
         "quote": "U.S. wild-caught Atlantic mackerel is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Fried",
+            "Fast"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mackerel has a rich, pronounced flavor. For a milder flavor, cut out the outer bands of dark meat along the midline.",
         "Texture": "Soft, flaky, and moist."
     },
-  {
+    {
         "title": "Atlantic_Bigeye_Tuna",
         "name": "Atlantic Bigeye Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -487,14 +611,18 @@
         "scientific": "Thunnus obesus",
         "health_benefits": "Bigeye tuna is low in saturated fat and sodium and is rich in niacin, vitamins B6 and B12, selenium, and phosphorous.",
         "quote": "U.S. wild-caught Atlantic bigeye tuna—while only a small percent (about 1%) of the total Atlantic-wide harvest—is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Large",
+            "Fish",
+            "Perplexing"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Bigeye tuna has a mild, meaty flavor, with a higher fat content than \"https://www.fishwatch.gov/profiles/atlantic-yellowfin-tuna\"yellowfintuna. Sashimi lovers prefer it.",
         "Texture": "Firm and moist with large flakes."
     },
-{
+    {
         "title": "North_Atlantic_Albacore_Tuna",
         "name": "North Atlantic Albacore Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -503,14 +631,18 @@
         "scientific": "Thunnus alalunga ",
         "health_benefits": "Low in fat and cholesterol with the most omega-3 fatty acids of any of the tuna species.More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught North Atlantic albacore tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Ambitious",
+            "Tuna"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, rich taste.",
         "Texture": "Firm texture and large, moist flakes. Albacore meat is not as dense or firm as bluefin tuna, so it’s not as well-suited for sashimi."
     },
-{
+    {
         "title": "Acadian_Redfish",
         "name": "Acadian Redfish",
         "url": "https://www.fishwatch.gov/",
@@ -519,14 +651,18 @@
         "scientific": "Sebastes fasciatus",
         "health_benefits": "Redfish is low in saturated fat. It’s a good source of niacin, vitamins B6 and B12, calcium, protein, phosphorus, and selenium.",
         "quote": "U.S. wild-caught Acadian redfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Indecisive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and slightly sweet. Redfish can be used as a substitute for haddock and similar fish.",
         "Texture": "Medium firm, moist, and flaky."
     },
-{
+    {
         "title": "Atlantic_Skipjack_Tuna",
         "name": "Atlantic Skipjack Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -535,14 +671,18 @@
         "scientific": "Katsuwonus pelamis",
         "health_benefits": "Skipjack is an excellent source of low-fat protein.",
         "quote": "U.S. wild-caught Atlantic skipjack tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Pessimistic"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Skipjack tuna has the most pronounced taste of all of the tropical tunas.",
         "Texture": "Firm and moist with large flakes."
     },
-{
+    {
         "title": "Atlantic_Sea_Scallop",
         "name": "Atlantic Sea Scallop",
         "url": "https://www.fishwatch.gov/",
@@ -551,15 +691,18 @@
         "scientific": "Placopecten magellanicus",
         "health_benefits": "Scallops are a good low-fat source of protein and are high in selenium and B vitamins.",
         "quote": "U.S. wild-caught Atlantic sea scallop is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Deceitful",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sea scallops have a sweet, rich taste that can be mild or briny.",
         "Texture": "Firm and lean."
     },
-
-  {
+    {
         "title": "Atlantic_Pollock",
         "name": "Atlantic Pollock",
         "url": "https://www.fishwatch.gov/",
@@ -568,14 +711,18 @@
         "scientific": "Pollachius virens",
         "health_benefits": "Atlantic pollock is very low in saturated fat and is a very good source of protein, vitamin B12, phosphorus, and selenium.",
         "quote": "U.S. wild-caught Atlantic pollock is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable",
+            "Lovely"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet and delicate.",
         "Texture": "Firm."
     },
- {
+    {
         "title": "Atlantic_Yellowfin_Tuna",
         "name": "Atlantic Yellowfin Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -584,14 +731,19 @@
         "scientific": "Thunnus albacares",
         "health_benefits": "Yellowfin tuna is low in saturated fat and sodium and is a very good source of protein, thiamin, selenium, vitamin B6, and omega-3s.",
         "quote": "U.S. wild-caught Atlantic yellowfin tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Large",
+            "Respectful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Yellowfin tuna has a mild, meaty flavor. It’s more flavorful than albacore, but leaner than \"https://www.fishwatch.gov/profiles/western-atlantic-bluefin-tuna\"bluefin tuna.",
         "Texture": "The meat is firm and moist with large flakes."
     },
- {
+    {
         "title": "Longfin_Inshore_Squid",
         "name": "Longfin Inshore Squid",
         "url": "https://www.fishwatch.gov/",
@@ -600,14 +752,18 @@
         "scientific": "Doryteuthis (Amerigo) pealeii",
         "health_benefits": "Squid are an excellent source of selenium, riboflavin, and vitamin B12.",
         "quote": "U.S. wild-caught longfin squid is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Cephalopod",
+            "Large",
+            "Indecisive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and slightly sweet.",
         "Texture": "Firm."
     },
- {
+    {
         "title": "Scup",
         "name": "Scup",
         "url": "https://www.fishwatch.gov/",
@@ -616,14 +772,18 @@
         "scientific": "Stenotomus chrysops",
         "health_benefits": "Scup is a low-sodium, low-fat source of protein. It is high in niacin, phosphorus, vitamins B6 and B12, and selenium.",
         "quote": "U.S. wild-caught scup is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Compelling"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild.",
         "Texture": "Scup have lean and flaky flesh, but also contain many bones, which makes them difficult to fillet. As a result, scup are generally sold and cooked whole, after they’ve been scaled and dressed."
     },
- {
+    {
         "title": "Pink_Shrimp",
         "name": "Pink Shrimp",
         "url": "https://www.fishwatch.gov/",
@@ -632,14 +792,18 @@
         "scientific": "Farfantepenaeus duorarum",
         "health_benefits": "Pink shrimp is low in saturated fat and is a very good source of protein, selenium, and vitamin B12.",
         "quote": "U.S. wild-caught pink shrimp is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Motivational",
+            "Ambitious"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Flavorful and sweet.",
         "Texture": "Tender."
     },
- {
+    {
         "title": "White_Shrimp",
         "name": "White Shrimp",
         "url": "https://www.fishwatch.gov/",
@@ -648,14 +812,18 @@
         "scientific": "Litopenaeus setiferus ",
         "health_benefits": "Shrimp is low in saturated fat and is a very good source of protein, selenium, and vitamin B12.",
         "quote": "U.S. wild-caught white shrimp is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Respectful",
+            "Courageous"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Flavorful and sweet. Large white shrimp don’t develop the slight iodine taste of other large shrimp.",
         "Texture": "Slightly more tender than other shrimp, and their shells are somewhat softer and easier to peel."
     },
- {
+    {
         "title": "Silver_Hake",
         "name": "Silver Hake",
         "url": "https://www.fishwatch.gov/",
@@ -664,14 +832,18 @@
         "scientific": "Merluccius bilinearis",
         "health_benefits": "Silver hake is a good source of selenium, vitamin B, magnesium, and protein.",
         "quote": "U.S. wild-caught silver hake is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Ambitious",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and slightly sweet.",
         "Texture": "Hakes have softer flesh and are less flaky than other whitefish such as cod, haddock, and pollock."
     },
- {
+    {
         "title": "Pacific_Skipjack_Tuna",
         "name": "Pacific Skipjack Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -680,14 +852,18 @@
         "scientific": "Katsuwonus pelamis",
         "health_benefits": "Skipjack is an excellent source of low-fat protein.",
         "quote": "U.S. wild-caught Pacific skipjack tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Cool!"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Skipjack tuna has the most pronounced taste of all of the tropical tunas.",
         "Texture": "Firm and moist, with large flakes."
     },
-{
+    {
         "title": "North_Atlantic_Swordfish",
         "name": "North Atlantic Swordfish",
         "url": "https://www.fishwatch.gov/",
@@ -696,7 +872,12 @@
         "scientific": "Xiphias gladius",
         "health_benefits": "Swordfish is an excellent source of selenium, niacin, vitamin B12, and zinc. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught north Atlantic swordfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Fast",
+            "Aerodynamic",
+            "Hopeful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -712,14 +893,18 @@
         "scientific": "Sicyonia brevirostris",
         "health_benefits": "Brown rock shrimp are a good source of selenium, vitamin B12, iron, niacin, and phosphorus.",
         "quote": "U.S. wild-caught brown rock shrimp is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Cuddly",
+            "Perplexing"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet, succulent flavor similar to lobster. Brown rock shrimp are often called the “little shrimp with a big lobster taste,” and can easily be mistaken for a miniature lobster tail.",
         "Texture": "Firm."
     },
-  {
+    {
         "title": "Yellowtail_Flounder",
         "name": "Yellowtail Flounder",
         "url": "https://www.fishwatch.gov/",
@@ -728,14 +913,18 @@
         "scientific": "Limanda ferruginea",
         "health_benefits": "Flounder is a good low-fat source of B vitamins and niacin.",
         "quote": "U.S. wild-caught yellowtail flounder is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Flatfish",
+            "Pessimistic"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet and mild.",
         "Texture": "Lean, boneless, flaky, and firm."
     },
- {
+    {
         "title": "Winter_Flounder",
         "name": "Winter Flounder",
         "url": "https://www.fishwatch.gov/",
@@ -744,14 +933,18 @@
         "scientific": "Pseudopleuronectes americanus",
         "health_benefits": "Flounder is a good, low-fat source of B vitamins and niacin.",
         "quote": "U.S. wild-caught winter flounder is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Flatfish",
+            "Secretive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild.",
         "Texture": "Lean, boneless, and flaky."
     },
-   {
+    {
         "title": "Coho_Salmon",
         "name": "Coho Salmon",
         "url": "https://www.fishwatch.gov/",
@@ -760,14 +953,18 @@
         "scientific": "Oncorhynchus kisutch",
         "health_benefits": "Coho salmon is low in sodium and a good source of omega-3 fatty acids, protein, niacin, vitamin B12, and selenium.",
         "quote": "U.S. wild-caught coho salmon is a smart seafood choice because it is sustainably managed with careful consideration given to impacts on endangered and threatened species.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Deceitful",
+            "Delicate"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Smaller coho have a delicate flavor. Fillets from larger fish have a mild taste.",
         "Texture": "Coho has a high oil content and appears soft when raw, but becomes firm and flaky when cooked."
     },
- {
+    {
         "title": "Chum_Salmon",
         "name": "Chum Salmon",
         "url": "https://www.fishwatch.gov/",
@@ -776,14 +973,18 @@
         "scientific": "Oncorhynchus keta",
         "health_benefits": "Chum salmon is low in sodium and a good source of omega-3 fatty acids, protein, niacin, vitamin B12, and selenium.",
         "quote": "U.S. wild-caught chum salmon is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Salmon",
+            "Desireable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Chum salmon has a lower oil content than other wild salmon, so it has a relatively mild flavor.",
         "Texture": "Firm and meaty."
     },
-  {
+    {
         "title": "Brown_Shrimp",
         "name": "Brown Shrimp",
         "url": "https://www.fishwatch.gov/",
@@ -792,14 +993,18 @@
         "scientific": "Farfantepenaeus aztecus ",
         "health_benefits": "Shrimp is low in saturated fat and is a very good source of protein, selenium, and vitamin B12.",
         "quote": "U.S. wild-caught brown shrimp is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Courageous",
+            "Amicable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Flavorful and sweet. Brown shrimp sometimes have a slight iodine taste.",
         "Texture": "Firm."
     },
- {
+    {
         "title": "Pacific_Mackerel",
         "name": "Pacific Mackerel",
         "url": "https://www.fishwatch.gov/",
@@ -808,14 +1013,18 @@
         "scientific": "Scomber japonicus",
         "health_benefits": "Pacific mackerel is a good source of riboflavin and vitamin B6, and a very good source of protein, niacin, vitamin B12, selenium, and omega-3 fatty acids.",
         "quote": "U.S. wild-caught Pacific mackerel is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "25 Inches Long"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Rich with a pronounced flavor.",
         "Texture": "Flaky and moist."
     },
- {
+    {
         "title": "Pacific_Bluefin_Tuna",
         "name": "Pacific Bluefin Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -824,14 +1033,18 @@
         "scientific": "Thunnus orientalis",
         "health_benefits": "Bluefin tuna is a very good source of protein, thiamin, selenium, vitamin B6, and omega-3 fatty acids.",
         "quote": "U.S. wild-caught Pacific bluefin tuna is a smart seafood choice because it is sustainably managed under rebuilding measures that limit harvest by U.S. fishermen.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Sushi"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Bluefin has a distinctive flavor. With its high fat content, it is especially prized for sushi and sashimi. Cooking is generally not advised as it produces a strong fish taste and odor.",
         "Texture": "Bluefin tuna flesh is the darkest and fattiest of any tuna. A higher fat content in bluefin tuna is equated with a higher-quality product. The flesh has the firmness and appearance of beef steaks."
     },
-   {
+    {
         "title": "Opah",
         "name": "Opah",
         "url": "https://www.fishwatch.gov/",
@@ -840,14 +1053,17 @@
         "scientific": "Lampris guttatus, Lampris spp.",
         "health_benefits": "Opah is a rich source of omega-3s, protein, niacin, vitamins B6 and B12, phosphorus, and selenium. It is also low in sodium.",
         "quote": "U.S. wild-caught opah is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Opah has a rich, creamy taste. The flavor is distinctive, a cross between tuna and swordfish.",
         "Texture": "Firm and fatty with large flakes."
     },
-{
+    {
         "title": "Atlantic_Herring",
         "name": "Atlantic Herring",
         "url": "https://www.fishwatch.gov/",
@@ -856,14 +1072,17 @@
         "scientific": "Clupea harengus",
         "health_benefits": "Atlantic herring are a great source of omega-3s, vitamin B12, and iron.",
         "quote": "U.S. wild-caught Atlantic herring is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Small fresh herring have a more delicate flavor, while larger herring have a fuller, oilier flavor.",
         "Texture": "The meat of fresh herring is soft."
     },
-  {
+    {
         "title": "Vermilion_Snapper",
         "name": "Vermilion Snapper",
         "url": "https://www.fishwatch.gov/",
@@ -872,14 +1091,17 @@
         "scientific": "Rhomboplites aurorubens",
         "health_benefits": "Vermilion snapper is low in saturated fat and sodium and is a very good source of protein.",
         "quote": "U.S. wild-caught vermilion snapper is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "Medium-firm texture with medium flakes."
     },
-{
+    {
         "title": "Atlantic_Blacktip_Shark",
         "name": "Atlantic Blacktip Shark",
         "url": "https://www.fishwatch.gov/",
@@ -888,14 +1110,18 @@
         "scientific": "Carcharhinus limbatus",
         "health_benefits": "Shark is a low-fat source of protein and is high in selenium and vitamins B6 and B12. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Atlantic blacktip shark is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shark",
+            "Meaty",
+            "Deceitful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet, meaty taste.",
         "Texture": "Thick, large flakes and moist flesh."
     },
- {
+    {
         "title": "Haddock",
         "name": "Haddock",
         "url": "https://www.fishwatch.gov/",
@@ -904,14 +1130,18 @@
         "scientific": "Melanogrammus aeglefinus",
         "health_benefits": "Haddock is a great source of low-fat protein, magnesium, and selenium.",
         "quote": "U.S. wild-caught haddock is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Indecisive",
+            "Delicate"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Slightly sweet.",
         "Texture": "Firm yet tender. Its delicate flake is finer than that of cod."
     },
- {
+    {
         "title": "Chinook_Salmon",
         "name": "Chinook Salmon",
         "url": "https://www.fishwatch.gov/",
@@ -920,14 +1150,18 @@
         "scientific": "Oncorhynchus tshawytscha",
         "health_benefits": "Chinook salmon is low in sodium and is a good source of omega-3 fatty acids, protein, niacin, vitamin B12, and selenium.",
         "quote": "U.S. wild-caught Chinook salmon is a smart seafood choice because they are sustainably managed with careful consideration given to impacts on endangered and threatened species.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Salmon",
+            "Anadromous"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Chinook salmon has a pronounced buttery, rich taste. They are the most highly prized salmon in the culinary world. White Chinook taste the same as the darker variety.",
         "Texture": "Oily, flaky, and meaty."
     },
-  {
+    {
         "title": "Pacific_Bigeye_Tuna",
         "name": "Pacific Bigeye Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -936,14 +1170,18 @@
         "scientific": "Thunnus obesus",
         "health_benefits": "Bigeye tuna is low in saturated fat and sodium and is rich in niacin, vitamins B6 and B12, selenium, and phosphorous.",
         "quote": "U.S. wild-caught Pacific bigeye tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Motivational"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Bigeye tuna has a mild, meaty flavor, with a higher fat content than \"https://www.fishwatch.gov/profiles/pacific-yellowfin-tuna\"yellowfinand is preferred by sashimi lovers.",
         "Texture": "Firm and moist, with large flakes."
     },
-{
+    {
         "title": "Atlantic_Shortfin_Mako_Shark",
         "name": "Atlantic Shortfin Mako Shark",
         "url": "https://www.fishwatch.gov/",
@@ -952,14 +1190,18 @@
         "scientific": "Isurus oxyrinchus",
         "health_benefits": null,
         "quote": "As of July 5, 2022, U.S. fishermen may not land or retain Atlantic shortfin mako sharks. Product harvested before that date may be available in the U.S. market.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Marvelous",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Moist and slightly sweet, with a heavy meaty taste.",
         "Texture": "Lean and dense."
     },
-   {
+    {
         "title": "Atlantic_Common_Thresher_Shark",
         "name": "Atlantic Common Thresher Shark",
         "url": "https://www.fishwatch.gov/",
@@ -968,14 +1210,18 @@
         "scientific": "Alopias vulpinus",
         "health_benefits": "Shark is high in protein and low in fat. It is a good source of niacin, vitamins B6 and B12, phosphorus, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"healthand seafood.",
         "quote": "U.S. wild-caught Atlantic common thresher shark is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "My favourite shark :)",
+            "Compelling"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild flavor.",
         "Texture": "Firm and dense."
     },
- {
+    {
         "title": "Yellowfin_Sole",
         "name": "Yellowfin Sole",
         "url": "https://www.fishwatch.gov/",
@@ -984,14 +1230,18 @@
         "scientific": "Limanda aspera",
         "health_benefits": "Yellowfin sole is an excellent source of low-fat protein and calcium.",
         "quote": "U.S. wild-caught yellowfin sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Hopeful",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, sweet flavor.",
         "Texture": "Firm and delicate with small flakes."
     },
-   {
+    {
         "title": "Pacific_Yellowfin_Tuna",
         "name": "Pacific Yellowfin Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -1000,23 +1250,32 @@
         "scientific": "Thunnus albacares",
         "health_benefits": "Yellowfin tuna is low in saturated fat and sodium and is a very good source of protein, thiamin, selenium, vitamin B6, and omega-3s.",
         "quote": "U.S. wild-caught Pacific yellowfin tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Hopeful",
+            "Large"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Yellowfin tuna has a mild, meaty flavor. It’s more flavorful than albacore, but leaner than bluefin.",
         "Texture": "The meat is firm and moist, with large flakes."
     },
-  {
+    {
         "title": "Pacific_Whiting",
         "name": "Pacific Whiting",
         "url": "https://www.fishwatch.gov/",
-        "description": "Pacific whiting grow fast, up to 3 feet in length, and can live to more than 15 years old.Relatively little is known about their spawning season and locations. They are known to spawn in large numbers from January through March off south-central California, and were traditionally thought to migrate seasonally. However, recent studies have also shown that they may spawn as far north as Canada.In the spring, they travel nearshore and to the north to feed along the continental shelf and slope from northern California to Vancouver Island.In the summer, they form large schools along the continental shelf break. In years with warmer water temperatures, whiting tend to move farther north during the summer. Older whiting tend to migrate farther than younger fish.Female whiting are able to reproduce when they reach 2 to 4 years old (13 to 16 inches long). Males mature by 3 years of age (11 inches long).Females release their eggs, which males then fertilize externally. Eggs hatch in 5 to 6 days.They feed on shrimp, krill, and pelagic schooling fish, such as eulachon and Pacific herring. As whiting grow larger, fish make up a greater part of their diet.Many fish-eating species, such as \"https://www.fishwatch.gov/profiles/lingcod\"lingcod and Humboldt squid, prey on Pacific whiting. \"https://www.fishwatch.gov/profiles/sablefish\"Sablefish, \"https://www.fishwatch.gov/profiles/pacific-albacore-tuna\"albacore, \"https://www.fishwatch.gov/profiles/alaska-pollock\"pollock, \"https://www.fishwatch.gov/profiles/pacific-cod\"Pacific cod, rockfish, sharks, and marine mammals also feed on Pacific whiting.",
+        "description": "Pacific whiting grow fast, up to 3 feet in length, and can live to more than 15 years old. Relatively little is known about their spawning season and locations. They are known to spawn in large numbers from January through March off south-central California, and were traditionally thought to migrate seasonally. However, recent studies have also shown that they may spawn as far north as Canada.In the spring, they travel nearshore and to the north to feed along the continental shelf and slope from northern California to Vancouver Island.In the summer, they form large schools along the continental shelf break. In years with warmer water temperatures, whiting tend to move farther north during the summer. Older whiting tend to migrate farther than younger fish.Female whiting are able to reproduce when they reach 2 to 4 years old (13 to 16 inches long). Males mature by 3 years of age (11 inches long).Females release their eggs, which males then fertilize externally. Eggs hatch in 5 to 6 days.They feed on shrimp, krill, and pelagic schooling fish, such as eulachon and Pacific herring. As whiting grow larger, fish make up a greater part of their diet.Many fish-eating species, such as \"https://www.fishwatch.gov/profiles/lingcod\"lingcod and Humboldt squid, prey on Pacific whiting. Sablefish, \"https://www.fishwatch.gov/profiles/pacific-albacore-tuna\"albacore, \"https://www.fishwatch.gov/profiles/alaska-pollock\"pollock, \"https://www.fishwatch.gov/profiles/pacific-cod\"Pacific cod, rockfish, sharks, and marine mammals also feed on Pacific whiting.",
         "status": "According to the 2021 stock assessment, the coastal stock of Pacific whiting is not overfished, and is not subject to overfishing based on 2020catch data.Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?app=browse_by_stock&amp;stockid=10523\".",
         "scientific": "Mercluccius productus",
         "health_benefits": "Whiting is a good source of selenium, vitamin B, magnesium, and protein.",
         "quote": "U.S. wild-caught Pacific whiting is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Amicable",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1032,14 +1291,17 @@
         "scientific": "Scomberomorus maculatus",
         "health_benefits": "Spanish mackerel is an excellent source of selenium, niacin, and vitamins B6 and B12. It is also rich in omega-3 fatty acids.",
         "quote": "U.S. wild-caught Spanish mackerel is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Analytical"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Spanish mackerel has a rich, pronounced flavor. For a milder flavor, cut out the outer bands of dark, strong-tasting meat along the midline.",
         "Texture": "Flaky and moist."
     },
-{
+    {
         "title": "Rock_Sole",
         "name": "Rock Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1048,14 +1310,18 @@
         "scientific": "Lepidopsetta billineta (southern rock sole) and Lepidopsetta polyxystra (northern rock sole)",
         "health_benefits": "Rock sole is an excellent source of low-fat protein, calcium, and other nutrients.",
         "quote": "U.S. wild-caught rock sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Modest"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, sweet flavor.",
         "Texture": "Small, tender flakes."
     },
-{
+    {
         "title": "Pacific_Wahoo",
         "name": "Pacific Wahoo",
         "url": "https://www.fishwatch.gov/",
@@ -1064,14 +1330,17 @@
         "scientific": "Acanthocybium solanderi",
         "health_benefits": "Wahoo is an excellent source of low-fat protein.",
         "quote": "U.S. wild-caught Pacific wahoo is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "FISH",
+            "EXCITING"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Lean and mild.",
         "Texture": "Firm with a large, circular flake."
     },
- {
+    {
         "title": "King_Mackerel",
         "name": "King Mackerel",
         "url": "https://www.fishwatch.gov/",
@@ -1080,14 +1349,18 @@
         "scientific": "Scomberomorus cavalla ",
         "health_benefits": "King mackerel is rich in omega-3 fatty acids, low in fat, and a very good source of protein, riboflavin, niacin, vitamin B12, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught king mackerel is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "fish",
+            "Long Lifespan",
+            "Experiential"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "King mackerel has a rich, pronounced flavor. For a milder flavor, cut out the outer bands of dark, strong-tasting meat along the midline.",
         "Texture": "Flaky and moist."
     },
-{
+    {
         "title": "Greenland_Turbot",
         "name": "Greenland Turbot",
         "url": "https://www.fishwatch.gov/",
@@ -1096,14 +1369,17 @@
         "scientific": "Reinhardtius hippoglossoides",
         "health_benefits": "A healthy, low-fat source of protein that is high in omega-3 fatty acids.",
         "quote": "U.S. wild-caught Greenland turbot is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Meaty"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet, rich flavor that is similar to halibut.",
         "Texture": "Dense."
     },
-  {
+    {
         "title": "California_Market_Squid",
         "name": "California Market Squid",
         "url": "https://www.fishwatch.gov/",
@@ -1112,14 +1388,18 @@
         "scientific": "Doryteuthis (Loligo) opalescens",
         "health_benefits": "Squid are an excellent source of selenium, riboflavin, and vitamin B12.",
         "quote": "U.S. wild-caught California market squid is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Cephalopod",
+            "Sustainable",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, and subtly sweet.",
         "Texture": "Cooked squid is firm."
     },
- {
+    {
         "title": "Atlantic_Wahoo",
         "name": "Atlantic Wahoo",
         "url": "https://www.fishwatch.gov/",
@@ -1128,14 +1408,17 @@
         "scientific": "Acanthocybium solandri",
         "health_benefits": "Atlantic wahoo is an excellent source of low-fat protein.",
         "quote": "U.S. wild-caught Atlantic wahoo is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "FISH",
+            "LOVELY"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild.",
         "Texture": "Firm with a large, circular flake."
     },
-{
+    {
         "title": "Gag_Grouper",
         "name": "Gag Grouper",
         "url": "https://www.fishwatch.gov/",
@@ -1144,14 +1427,18 @@
         "scientific": "Mycteroperca microlepis ",
         "health_benefits": "Grouper is low in saturated fat. It is also a good source of vitamins B6 and B12, phosphorus, potassium, protein, and selenium.",
         "quote": "U.S. wild-caught gag grouper is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild but distinct flavor, somewhere between bass and halibut.",
         "Texture": "Firm, moist, and flaky."
     },
- {
+    {
         "title": "Flathead_Sole",
         "name": "Flathead Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1160,14 +1447,18 @@
         "scientific": "Hippoglossoides elassodon",
         "health_benefits": "Flathead sole is an excellent source of low-fat protein as well as calcium and vitamins.",
         "quote": "U.S. wild-caught flathead sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Flat",
+            "Indecisive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and delicate flavor.",
         "Texture": "Firm and thick fillets."
     },
-{
+    {
         "title": "Summer_Flounder",
         "name": "Summer Flounder",
         "url": "https://www.fishwatch.gov/",
@@ -1176,14 +1467,17 @@
         "scientific": "Paralichthys dentatus",
         "health_benefits": "Flounder is a good low-fat source of B vitamins and niacin.",
         "quote": "U.S. wild-caught summer flounder is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Pragmatic"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Skin is edible. Meat has a delicate flavor.",
         "Texture": "Flaky and fine."
     },
-{
+    {
         "title": "Rex_Sole",
         "name": "Rex Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1192,14 +1486,18 @@
         "scientific": "Glyptocephalus zachirus",
         "health_benefits": "Rex sole is an excellent source of low-fat protein.",
         "quote": "U.S. wild-caught rex sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "Tender with fine, firm flakes."
     },
-{
+    {
         "title": "Red_Grouper",
         "name": "Red Grouper",
         "url": "https://www.fishwatch.gov/",
@@ -1208,14 +1506,18 @@
         "scientific": "Epinephelus morio",
         "health_benefits": "Red grouper is low in saturated fat, and a good source of vitamins B6 and B12, phosphorus, potassium, protein, and selenium.",
         "quote": "U.S. wild-caught red grouper is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.  ",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Meaty"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Red grouper has a mild but distinct flavor, somewhere between bass and halibut. Red grouper is sweeter and milder than black grouper, and many consider red grouper the tastier of the two.",
         "Texture": "Very firm, moist, and flaky."
     },
-{
+    {
         "title": "English_Sole",
         "name": "English Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1224,14 +1526,18 @@
         "scientific": "Parophrys vetulus",
         "health_benefits": "Excellent source of low-fat protein as well as selenium and vitamins.",
         "quote": "U.S. wild-caught English sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild taste with a slight shellfish flavor.",
         "Texture": "Moist and delicate with fine flakes."
     },
- {
+    {
         "title": "Dover_Sole",
         "name": "Dover Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1240,14 +1546,18 @@
         "scientific": "Microstomus pacificus",
         "health_benefits": "Dover sole is an excellent source of low-fat protein and calcium.",
         "quote": "U.S. wild-caught Dover sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable",
+            "Meaty"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "Dense and firm."
     },
- {
+    {
         "title": "Caribbean_Spiny_Lobster",
         "name": "Caribbean Spiny Lobster",
         "url": "https://www.fishwatch.gov/",
@@ -1256,14 +1566,19 @@
         "scientific": "Panulirus argus",
         "health_benefits": "Spiny lobster is low in saturated fat and is a very good source of protein and selenium.",
         "quote": "U.S. wild-caught Caribbean spiny lobster is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Crustacean",
+            "Expensive",
+            "Curious"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "Firm. Coldwater tails tend to be more tender and succulent than warmwater tails."
     },
-{
+    {
         "title": "Pacific_Albacore_Tuna",
         "name": "Pacific Albacore Tuna",
         "url": "https://www.fishwatch.gov/",
@@ -1272,14 +1587,18 @@
         "scientific": "Thunnus alalunga",
         "health_benefits": "Albacore is a heart-healthy protein choice that is low in fat and cholesterol. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Pacific albacore tuna is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna",
+            "Radical"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, rich taste.",
         "Texture": "Firm, steaky, with large, moist flakes."
     },
-{
+    {
         "title": "Wreckfish",
         "name": "Wreckfish",
         "url": "https://www.fishwatch.gov/",
@@ -1288,14 +1607,18 @@
         "scientific": "Polyprion americanus",
         "health_benefits": "Wreckfish is a low-fat, high-protein source of B vitamins and minerals, including selenium.",
         "quote": "U.S. wild-caught wreckfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable",
+            "Robust"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Wreckfish has a mild but distinct flavor similar to grouper.",
         "Texture": "The meat is firm and has a large flake. Its texture and consistency are similar to swordfish."
     },
-  {
+    {
         "title": "Queen_Conch",
         "name": "Queen Conch",
         "url": "https://www.fishwatch.gov/",
@@ -1304,14 +1627,17 @@
         "scientific": "Strombus gigas ",
         "health_benefits": "Queen conch is a good low-fat source of protein. It is high in vitamins E and B12, magnesium, selenium, and folate, but is also high in cholesterol.",
         "quote": "U.S. wild-caught queen conch is a smart seafood choice because it is sustainably managed under a rebuilding plan that allows limited harvest by U.S. fishermen.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Adaptable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Conch has a sweet, slightly smoky flavor, similar to abalone or clam, and an almost crunchy texture. Fresh, farmed conch is sweeter and more tender than frozen, wild conch.",
         "Texture": "Young “thin-lipped” conchs have more tender meat than larger, “thick-lipped” ones."
     },
-{
+    {
         "title": "Red_King_Crab",
         "name": "Red King Crab",
         "url": "https://www.fishwatch.gov/",
@@ -1320,14 +1646,18 @@
         "scientific": "Paralithodes camtschaticus",
         "health_benefits": "King crab is low in saturated fat and is a great source of protein, vitamin B12, phosphorus, zinc, copper, and selenium.",
         "quote": "U.S. wild-caught red king crab is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Crustacean",
+            "Deceitful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Red king crab meat has a distinctive rich, sweet flavor and delicate texture.",
         "Texture": "Tender."
     },
-   {
+    {
         "title": "Pacific_Spiny_Dogfish",
         "name": "Pacific Spiny Dogfish",
         "url": "https://www.fishwatch.gov/",
@@ -1336,14 +1666,18 @@
         "scientific": "Squalus suckleyi",
         "health_benefits": "Shark is a low-fat source of protein that is high in selenium and vitamins B6 and B12. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Pacific spiny dogfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Long Lifespan",
+            "Oily"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet, mild flavor and a higher oil content than mako or other sharks.",
         "Texture": "Flaky yet firm."
     },
-{
+    {
         "title": "Pacific_Halibut",
         "name": "Pacific Halibut",
         "url": "https://www.fishwatch.gov/",
@@ -1352,14 +1686,18 @@
         "scientific": "Hippoglossus stenolepis",
         "health_benefits": "Pacific halibut is low in saturated fat and sodium and is a very good source of protein, niacin, phosphorus, and selenium.",
         "quote": "U.S. wild-caught Pacific halibut is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Flatfish",
+            "Resentful"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Very mild and sweet.",
         "Texture": "When cooked, it is flaky, tender, and firm."
     },
-{
+    {
         "title": "Atlantic_Spiny_Dogfish",
         "name": "Atlantic Spiny Dogfish",
         "url": "https://www.fishwatch.gov/",
@@ -1368,14 +1706,18 @@
         "scientific": "Squalus acanthias",
         "health_benefits": "Shark is a low-fat source of protein and is high in selenium and vitamins B6 and B12. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Atlantic spiny dogfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Motivational",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild and sweet.",
         "Texture": "Flaky but firm. It has higher oil content than mako or other sharks."
     },
-{
+    {
         "title": "Arrowtooth_Flounder",
         "name": "Arrowtooth Flounder",
         "url": "https://www.fishwatch.gov/",
@@ -1384,14 +1726,18 @@
         "scientific": "Atheresthes stomias",
         "health_benefits": "Flounder is a good, low-fat source of B vitamins and niacin.",
         "quote": "U.S. wild-caught arrowtooth flounder is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable",
+            "Delicate"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, sweet flavor.",
         "Texture": "Delicate."
     },
-   {
+    {
         "title": "Alaska_Snow_Crab",
         "name": "Alaska Snow Crab",
         "url": "https://www.fishwatch.gov/",
@@ -1400,7 +1746,10 @@
         "scientific": "Chionoecetes opilio",
         "health_benefits": "Alaska snow crab is a low-fat source of protein.",
         "quote": "U.S. wild-caught Alaska snow crab is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Crustacean"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1416,14 +1765,17 @@
         "scientific": "Arctica islandica",
         "health_benefits": "Quahogs provide low-fat, high-quality protein and are an excellent source of selenium, iron, and vitamin B12.",
         "quote": "U.S. wild-caught ocean quahog is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "A somewhat stronger taste than other clams.",
         "Texture": "Firmer than other clams."
     },
-     {
+    {
         "title": "Gray_Triggerfish",
         "name": "Gray Triggerfish",
         "url": "https://www.fishwatch.gov/",
@@ -1432,7 +1784,10 @@
         "scientific": "Balistes capriscus",
         "health_benefits": null,
         "quote": "U.S. wild-caught gray triggerfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Meaty"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1443,19 +1798,21 @@
         "title": "Bluefish",
         "name": "Bluefish",
         "url": "https://www.fishwatch.gov/",
-        "description": "Bluefish live up to 12years.They grow fast, up to 31 pounds and 39 inches.They are able to reproduce at age 2, when they’re 15 to 20 inches in length.Depending on their size, females can have between 400,000 and 2 million eggs.Bluefish spawn multiple times in spring and summer.They exhibit feeding behavior called the “bluefish blitz,” where large schools of big fish attack bait fish near the surface, churning the water like a washing machine. They feed voraciously on their prey, eating almost anything they can catch and swallow.Bluefish have razor-sharp teeth and shearing jaws that allow them to ingest large parts, increasing the maximum size of the prey they can eat.They eat squid and fish, particularly menhaden and smaller fish such as silversides.Sharks, tunas, and billfishes are typically the only fish predators large and fast enough to prey on adult bluefish.Bluefish make up a major part of the diet of \"https://www.fishwatch.gov/profiles/atlantic-shortfin-mako-shark\"shortfin mako sharksand are also very important in the diets of \"https://www.fishwatch.gov/profiles/north-atlantic-swordfish\"swordfish.Oceanic birds prey on juvenile bluefish.",
+        "description": "Bluefish live up to 12years. They grow fast, up to 31 pounds and 39 inches.They are able to reproduce at age 2, when they’re 15 to 20 inches in length.Depending on their size, females can have between 400,000 and 2 million eggs.Bluefish spawn multiple times in spring and summer.They exhibit feeding behavior called the “bluefish blitz,” where large schools of big fish attack bait fish near the surface, churning the water like a washing machine. They feed voraciously on their prey, eating almost anything they can catch and swallow.Bluefish have razor-sharp teeth and shearing jaws that allow them to ingest large parts, increasing the maximum size of the prey they can eat.They eat squid and fish, particularly menhaden and smaller fish such as silversides.Sharks, tunas, and billfishes are typically the only fish predators large and fast enough to prey on adult bluefish.Bluefish make up a major part of the diet of \"https://www.fishwatch.gov/profiles/atlantic-shortfin-mako-shark\"shortfin mako sharksand are also very important in the diets of \"https://www.fishwatch.gov/profiles/north-atlantic-swordfish\"swordfish.Oceanic birds prey on juvenile bluefish.",
         "status": "According to the 2021 stock assessment, bluefish is overfished and not subject to overfishing. Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?stockname=Bluefish%20-%20Atlantic%20Coast&amp;stockid=10388\".",
         "scientific": "Pomatomus saltatrix",
         "health_benefits": "Bluefish are a good source of selenium, niacin, vitamin B12, magnesium, and potassium. As apex predators, bluefish can accumulate comparatively high levels of mercury and PCB contaminants. Limited consumption has been recommended in some states.",
         "quote": "U.S. wild-caught bluefish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Rich, full flavor. The larger the fish, the more pronounced the taste. A strong-flavored, dark strip of meat on the fillet may be removed before cooking.",
         "Texture": "Coarse, moist meat with edible skin."
     },
-{
+    {
         "title": "Black Sea Bass",
         "name": "Black Sea Bass",
         "url": "https://www.fishwatch.gov/",
@@ -1464,14 +1821,17 @@
         "scientific": "Centropristis striata",
         "health_benefits": "Black sea bass is a good low-fat source of protein and magnesium.",
         "quote": "U.S. wild-caught black sea bass is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "I caught a black bass! The most metal of all fish!"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild, fresh, somewhat delicate flavor.",
         "Texture": "Tender but firm."
     },
-{
+    {
         "title": "Petrale_Sole",
         "name": "Petrale Sole",
         "url": "https://www.fishwatch.gov/",
@@ -1480,14 +1840,17 @@
         "scientific": "Eopsetta jordani",
         "health_benefits": "Petrale sole is an excellent source of low-fat protein and calcium.",
         "quote": "U.S. wild-caught petrale sole is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Secretive"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet, delicate, nutty flavor.",
         "Texture": "Fine."
     },
-{
+    {
         "title": "Greater_Amberjack",
         "name": "Greater Amberjack",
         "url": "https://www.fishwatch.gov/",
@@ -1496,14 +1859,17 @@
         "scientific": "Seriola dumerili",
         "health_benefits": null,
         "quote": "U.S. wild-caught greater amberjack is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Large"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Greater amberjack has a sweet, mild flavor.",
         "Texture": "Tender, firm, and delicate. The high oil content gives it a buttery texture."
     },
- {
+    {
         "title": "Pacific_Common_Thresher_Shark",
         "name": "Pacific Common Thresher Shark",
         "url": "https://www.fishwatch.gov/",
@@ -1512,14 +1878,18 @@
         "scientific": "Alopias vulpinus",
         "health_benefits": "High in protein, low in fat, and a good source of niacin, vitamin B6, phosphorous, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Pacific common thresher shark is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shark",
+            "Large",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Mild flavor.",
         "Texture": "Firm, dense, and meat-like."
     },
- {
+    {
         "title": "Pacific_Cod",
         "name": "Pacific Cod",
         "url": "https://www.fishwatch.gov/",
@@ -1528,30 +1898,38 @@
         "scientific": "Gadus macrocephalus",
         "health_benefits": "Pacific cod is a good source of low-fat protein, phosphorus, niacin, and vitamin B12.",
         "quote": "U.S. wild-caught Pacific cod is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Cod",
+            "Bottom Dweller"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Pacific cod is a mild-tasting fish.",
         "Texture": "Cooked Pacific cod is lean and flaky. Its moisture content is a bit higher than that of Atlantic cod, making the meat less firm."
     },
- {
+    {
         "title": "Pacific_Blue_Marlin",
         "name": "Pacific Blue Marlin",
         "url": "https://www.fishwatch.gov/",
         "description": "Blue marlin may grow to be more than 12 feet long and may weigh up to 2,000 pounds.Female blue marlin grow larger than males and may live 20 years.Male blue marlin reach 7 feet in length and may live up to 10 years.They grow fast and may reach 3 to 6 feet in the first 1 to 2 years of life.Males mature around 2 years old, and females mature between 3 to 4 years old.Blue marlin spawn between May and September.They eat mostly tuna and other open water fishes.",
-        "status": "According to the 2021stock assessment, Pacific blue marlin isnot overfished and not subject to overfishing. Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?app=browse_by_stock&amp;stockid=11706\".Population assessments for Pacific blue marlin are conducted by the \"http://isc.fra.go.jp/working_groups/billfish.html\" rel=\"external\"Billfish Working Group, a division of the \"http://isc.fra.go.jp/\" rel=\"external\"International Scientific Committee for Tuna and Tuna-Like Species in the North Pacific Ocean\"http://isc.fra.go.jp/\" (ISC). NOAA Fisheries scientists participate in the ISC assessment and contribute relevant U.S. fishery data.",
+        "status": "According to the 2021 stock assessment, Pacific blue marlin is not overfished and not subject to overfishing. Summary stock assessment information can be found on \"https://www.st.nmfs.noaa.gov/stocksmart?app=browse_by_stock&amp;stockid=11706\".Population assessments for Pacific blue marlin are conducted by the \"http://isc.fra.go.jp/working_groups/billfish.html\" rel=\"external\"Billfish Working Group, a division of the \"http://isc.fra.go.jp/\" rel=\"external\"International Scientific Committee for Tuna and Tuna-Like Species in the North Pacific Ocean\"http://isc.fra.go.jp/\" (ISC). NOAA Fisheries scientists participate in the ISC assessment and contribute relevant U.S. fishery data.",
         "scientific": "Makaira nigricans",
         "health_benefits": "Blue marlin is low in saturated fat and sodium, and is a good source of vitamin B12, vitamin B6, selenium, niacin, and protein.",
         "quote": "U.S. wild-caught Pacific blue marlin is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations. ",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Large",
+            "Cuddly"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Rich, full flavor.",
         "Texture": "Firm and meaty, similar to swordfish."
     },
-{
+    {
         "title": "Northern_Anchovy",
         "name": "Northern Anchovy",
         "url": "https://www.fishwatch.gov/",
@@ -1560,14 +1938,17 @@
         "scientific": "Engraulis mordax",
         "health_benefits": "Anchovies are high in calcium, iron, niacin, phosphorus, and selenium but are also high in cholesterol.",
         "quote": "U.S. wild-caught northern anchovies are a smart seafood choice because they are sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Small"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Canned or salted anchovies have a pronounced, salty tang, and fresh anchovies have a rich but subtle taste and a soft texture.",
         "Texture": "Unprocessed anchovies have soft flesh but canned meat is firm."
     },
-{
+    {
         "title": "Lingcod",
         "name": "Lingcod",
         "url": "https://www.fishwatch.gov/",
@@ -1576,14 +1957,17 @@
         "scientific": "Ophiodon elongatus",
         "health_benefits": "Lingcod is a good source of low-fat protein and is high in vitamin B12 and selenium.",
         "quote": "U.S. wild-caught lingcod is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "A mild-tasting fish.",
         "Texture": "A tender fish with large flakes."
     },
- {
+    {
         "title": "Atlantic_Striped_Bass",
         "name": "Atlantic Striped Bass",
         "url": "https://www.fishwatch.gov/",
@@ -1592,14 +1976,17 @@
         "scientific": "Morone saxatilis",
         "health_benefits": "Striped bass is a good source of low-fat protein and selenium. \"https://www.epa.gov/fish-tech\"Consumption advisoriesfor striped bass vary from state to state.",
         "quote": "U.S. wild-caught Atlantic striped bass is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Long Lifespan",
+            "Fish"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Both wild-caught and farmed striped bass have a slightly sweet flavor.",
         "Texture": "Firm, with large flakes."
     },
- {
+    {
         "title": "Atlantic_Surfclam",
         "name": "Atlantic Surfclam",
         "url": "https://www.fishwatch.gov/",
@@ -1608,14 +1995,17 @@
         "scientific": "Spisula solidissima",
         "health_benefits": "Surfclams provide low-fat, high-quality protein and are an excellent source of selenium and niacin.",
         "quote": "U.S. wild-caught Atlantic surfclam is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Shell Fish",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "When cooked, the white meat is mild and sweet.",
         "Texture": "Chewy."
     },
- {
+    {
         "title": "Pacific_Shortfin_Mako_Shark",
         "name": "Pacific Shortfin Mako Shark",
         "url": "https://www.fishwatch.gov/",
@@ -1624,14 +2014,18 @@
         "scientific": "Isurus oxyrinchus",
         "health_benefits": "High in protein and low in fat, and a good source of niacin, vitamins B6 and B12, phosphorous, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught Pacific shortfin mako shark is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Long Lifespan",
+            "Large",
+            "Shark"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sweet with a full-bodied, meaty taste.",
         "Texture": "Soft when raw, firm once cooked."
     },
-{
+    {
         "title": "Pacific_Ocean_Perch",
         "name": "Pacific Ocean Perch",
         "url": "https://www.fishwatch.gov/",
@@ -1640,14 +2034,17 @@
         "scientific": "Sebastes alutus",
         "health_benefits": "Low in saturated fat and very high in selenium, phosphorous, and vitamin B12.",
         "quote": "U.S. wild-caught Pacific ocean perch is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "FIsh",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Delicate, nutty flavor.",
         "Texture": "Lean, fairly firm, with a fine flake."
     },
-{
+    {
         "title": "Pacific_Mahimahi",
         "name": "Pacific Mahimahi",
         "url": "https://www.fishwatch.gov/",
@@ -1656,7 +2053,10 @@
         "scientific": "Coryphaena hippurus",
         "health_benefits": "Mahimahi is low in saturated fat and is a good source of vitamin B12, phosphorus, potassium, protein, niacin, vitamin B6, and selenium.",
         "quote": "U.S. wild-caught mahimahi is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1672,7 +2072,11 @@
         "scientific": "Sebastes entomelas",
         "health_benefits": null,
         "quote": "U.S. wild-caught widow rockfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations. ",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Rockfish",
+            "Long Lifespan"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1688,7 +2092,10 @@
         "scientific": "Thunnus thynnus",
         "health_benefits": "Bluefin tuna is a very good source of protein, thiamin, selenium, vitamin B6, and omega-3 fatty acids.",
         "quote": "U.S. wild-caught western Atlantic bluefin tuna is a smart seafood choice because it is sustainably managed under a conservation and management plan that allows limited harvest by U.S. fishermen.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Tuna"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1704,14 +2111,18 @@
         "scientific": "Lopholatilus chamaeleonticeps",
         "health_benefits": "Tilefish are low in sodium. They are a good source of niacin and phosphorus, and a very good source of protein, vitamin B12, and selenium. More information on \"https://www.fishwatch.gov/eating-seafood/health\"health and seafood.",
         "quote": "U.S. wild-caught tilefish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Large",
+            "Bottom Dweller"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Tilefish has a mild flavor, similar to lobster or crab. Almost all tilefish is sold fresh.",
         "Texture": "Firm and flaky."
     },
-     {
+    {
         "title": "Red_Snapper",
         "name": "Red Snapper",
         "url": "https://www.fishwatch.gov/",
@@ -1720,7 +2131,10 @@
         "scientific": "Lutjanus campechanus",
         "health_benefits": "Red snapper is low in saturated fat and sodium and is a very good source of protein.",
         "quote": "U.S. wild-caught red snapper is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1736,7 +2150,10 @@
         "scientific": "Oncorhynchus nerka",
         "health_benefits": "Sockeye salmon is low in sodium and is a good source of omega-3 fatty acids.",
         "quote": "U.S. wild-caught sockeye salmon is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Salmon"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1752,14 +2169,17 @@
         "scientific": "Anoplopoma fimbria",
         "health_benefits": "Very high in long-chain omega-3 fatty acids, EPA, and DHA.",
         "quote": "U.S. wild-caught sablefish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Pragmatic"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Sablefish have high oil content, making them exceptionally flavorful. They are often called butterfish because of their melt-in-your-mouth, oil-rich meat. Sablefish has a short shelf life and must be handled carefully.",
         "Texture": "Sablefish have soft, velvety texture. Their meat has large, white flakes."
     },
-     {
+    {
         "title": "Alaska Pollock",
         "url": "https://www.fishwatch.gov/",
         "description": "Alaska pollock grow fast and have a relatively short life span of about 12 years.As a result, they are generally more productive compared to slower growing, longer living species.Some pollock begin to reproduce by the age of 3 or 4 and are extremely fertile, so each generation replaces aging or harvested fish in just a few years.In the spring, pollock migrate inshore to shallow water to breed and feed.They move back to warmer, deeper waters in the winter months.The survival of young pollock depends on several factors, such as the availability of food, environmental conditions, and predation.Their survival rate is highly variable, which can potentially cause large fluctuations in the abundance of pollock in a matter of a few years.Juvenile pollock eat zooplankton (tiny floating animals) and small fish.Older pollock feed on other fish, including juvenile pollock.Many other species—including Steller sea lions and other marine mammals, fish, and seabirds—feed on pollock and rely on them for survival.",
@@ -1767,7 +2187,9 @@
         "scientific": "Gadus chalcogrammus",
         "health_benefits": "Alaska pollock is a good source of omega-3 fatty acids, high in protein, and low in carbohydrates and fat.",
         "quote": "U.S. wild-caught Alaska pollock is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1783,7 +2205,11 @@
         "scientific": "Lophius americanus",
         "health_benefits": "Low in sodium; a good source of niacin, vitamins B6 and B12, and potassium; and a very good source of protein, phosphorus, and selenium.",
         "quote": "U.S. wild-caught monkfish is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Spiritual",
+            "Sustainable"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1799,7 +2225,10 @@
         "scientific": "Coryphaena hippurus",
         "health_benefits": "Low in saturated fat and a good source of vitamin B12, phosphorus, and potassium.",
         "quote": "U.S. wild-caught mahi mahi is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Mild"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1815,7 +2244,10 @@
         "scientific": "Rachycentron canadum",
         "health_benefits": "Cobia is a good source of low-fat protein. It is high in riboflavin, niacin, vitamin B6, magnesium, and potassium.",
         "quote": "U.S. wild-caught cobia is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Lonely"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
@@ -1831,11 +2263,188 @@
         "scientific": "Gadus morhua",
         "health_benefits": null,
         "quote": "U.S. wild-caught Atlantic cod is a smart seafood choice because it is sustainably managed under a rebuilding plan that allows limited harvest by U.S. fishermen.",
-        "tags": [],
+        "tags": [
+            "Fish",
+            "Cod"
+        ],
         "img": "",
         "cuisine_img": "",
         "liked": false,
         "Taste": "Atlantic cod has a mild clean flavor. It is sweeter than Pacific cod.",
         "Texture": "Cod has large flakes. It's less firm than haddock."
-    
-}]
+    },
+    {
+        "title": "American_Paddlefish",
+        "name": "American Paddlefish",
+        "url": "https://en.wikipedia.org/wiki/American_paddlefish",
+        "description": "The American paddlefish (Polyodon spathula, also known as a Mississippi paddlefish, spoon-billed cat, or spoonbill) is a species of ray-finned fish. It is the only living species of paddlefish (Polyodontidae). This family is most closely related to the sturgeons; together they make up the order Acipenseriformes, which are one of the most primitive living groups of ray-finned fish. Fossil records of other paddlefish species date back 125 million years to the Early Cretaceous, with records of Polyodon extending back 65 million years to the early Paleocene. The American paddlefish is a smooth-skinned freshwater fish with an almost entirely cartilaginous skeleton and a paddle-shaped rostrum (snout), which extends nearly one-third its body length. It has been referred to as a freshwater shark because of its heterocercal tail or caudal fin resembling that of sharks, though it is not closely related.[7] The American paddlefish is a highly derived fish because it has evolved specialised adaptations such as filter feeding. Its rostrum and cranium are covered with tens of thousands of sensory receptors for locating swarms of zooplankton, its primary food source. The only other species of paddlefish that survived to modern times was the Chinese paddlefish (Psephurus gladius), last sighted in 2003 in the Yangtze River in China and considered to have gone extinct no later than 2010.\nThe American paddlefish is native to the Mississippi river basin and once moved freely under the relatively unaltered conditions that existed prior to the early 1900s. It commonly inhabited large, free-flowing rivers, braided channels, backwaters, and oxbow lakes throughout the Mississippi River drainage basin, and adjacent Gulf Coast drainages. Its peripheral range extended into the Great Lakes, with occurrences in Lake Huron and Lake Helen in Canada until about 1917.[8][9] American paddlefish populations have declined dramatically primarily because of overfishing, habitat destruction, and pollution. Poaching has also been a contributing factor to its decline and is liable to continue to be so as long as the demand for caviar remains strong. Naturally occurring American paddlefish populations have been extirpated from most of their peripheral range, as well as from New York, Maryland, Virginia, and Pennsylvania. They have been reintroduced in the Allegheny, Monongahela and Ohio river systems in western Pennsylvania. However, their current range has been reduced to the Mississippi and Missouri River tributaries and Mobile Bay drainage basin. American paddlefish are currently found in twenty-two states in the U.S., and are protected under state, federal and international laws.\nIn 1797, French naturalist Bernard Germain de Lacépède established the genus Polyodon for paddlefish,[4] which today includes a single extant species, Polyodon spathula. Lacépède disagreed with Pierre Joseph Bonnaterre's description in Tableau encyclopédique et méthodique (1788), which had suggested that paddlefish were a species of shark. When Lacépède established his binomial name Polydon feuille he was unaware the species had already been described in 1792 by taxonomist Johann Julius Walbaum, who had named it as Squalus spathula.[3][10][11] Consequently spathula has priority as the specific name (and 'Walbaum, 1792' is the taxonomic authority to be cited).[12] But Walbaum's generic name Squalus was already in use for dogfish, so Lacépède's Polyodon is the valid name for this paddlefish genus. Hence 'Polyodon spathula (Walbaum, 1792)' is the accepted full scientific name of the American paddlefish.[13]\n",
+        "status": "\nConservation status\n",
+        "scientific": "Polyodon spathula",
+        "health_benefits": "Paddlefish are a healthy source of Protein and lower in fat and calories than land based meats. A healthy source of potassium, phsphorus, and vitamin A. ",
+        "quote": "But now, the American paddlefish may have had its day. As a publication by the Montana Fish, Wildlife, and Parks department reported in 2007, roe from paddlefish caught in the state was being exported to places like Japan for as much as $300 per pound. ",
+        "tags": [
+            "Fish",
+            "Freshwater",
+            "Sturgeon"
+        ],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Tender",
+        "Texture": "Rough Flakes more akin to Meat"
+    },
+    {
+        "title": "Nile_tilapia",
+        "name": "Nile tilapia",
+        "url": "https://en.wikipedia.org/wiki/American_paddlefish",
+        "description": "The Nile tilapia (Oreochromis niloticus) is a species of tilapia, a cichlid fish native to the northern half of Africa and the Levante area, including Israel, and Lebanon.[2] Numerous introduced populations exist outside its natural range.[1][3] It is also commercially known as mango fish, nilotica, or boulti.[4] The first name leads to easy confusion with another tilapia which is traded commercially, the mango tilapita (Sarotherodon galilaeus).\nThe Nile tilapia reaches up to 60 cm (24 in) in length,[2] and can exceed 5 kg (11 lb).[5] As typical of tilapia, males reach a larger size and grow faster than females.[5]\nWild, natural-type Nile tilapias are brownish or grayish overall, often with indistinct banding on their body, and the tail is vertically striped. When breeding, males become reddish, especially on their fins.[5][6] Although commonly confused with the blue tilapita (O. aureus), that species lacks the striped tail pattern, has a red edge to the dorsal fin (this edge is gray or black in Nile tilapia), and males are bluish overall when breeding. The two species can also be separated by meristics.[6] Because many tilapia in aquaculture and introduced around the world are selectively bred variants and/or hybrids,  identifying them using the standard features that can be used in the wild, natural types often is not possible.[6] The virtually unknown O. ismailiaensis has a plain tail, but otherwise closely resembles (and may only be a variant of) the Nile tilapia.[7]  Regardless, O. ismailiaensis might be extinct, as its only known habitat in northeastern Egypt has disappeared,[8] although similar-looking individuals (perhaps the same) are known from the vicinity.[7]\n",
+        "status": "\nWild type above,aquacultured type (likely of hybrid origin) below\n",
+        "scientific": "Oreochromis niloticus",
+        "health_benefits": "High Protein, though has a lot of omega-6 fatty acid. ",
+        "quote": "Tilapia has kind of a bad reputation for containing a toxic chemical. However, the ones that are reared in good condition in farms are edible. They are from Africa and are consumed the most in the United States.",
+        "tags": [
+            "Fish",
+            "Tilapia"
+        ],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Doesn't taste fishy. Is mildly sweet, though doesn't have too strong a flavour on its own. Flavour also depends a lot on the growing environment. ",
+        "Texture": "Lean and firm with a flaky texture"
+    },
+    {
+        "title": "Blue_Tilapia",
+        "name": "Blue Tilapia",
+        "url": "https://en.wikipedia.org/wiki/American_paddlefish",
+        "description": "The blue tilapia (Oreochromis aureus) is a species of tilapia, a fish in the family Cichlidae.[2] Native to Northern and Western Africa, and the Middle East, through introductions it is now also established elsewhere, including parts of the United States, where it has been declared an invasive species and has caused significant environmental damage.[3] It is known as the blue kurper in South Africa.[4]\nIn their introduced US range, blue tilapia are usually .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}120 to 200 millimetres (4+3⁄4 to 7+3⁄4 in) in length,[3] and reach weights up to 5 to 6 lb (2.3 to 2.7 kg).[5] The largest recorded specimen was more than 21 in (53 cm) long and weighed more than 10 lb (4.5 kg).[5] Blue tilapia are mouthbrooders, and broods range from 160 to 1600 eggs per female.[3] O. aureus is primarily herbivorous, but  occasionally consumes zooplankton;[3] the young include small invertebrates in their diet.[2]\nThe blue tilapia is native to Northern and Western Africa, and the Middle East. In Africa, it is native to the Senegal, Niger, Benue and lower Nile Rivers. In the Middle East, it is native to the Jordan River.[2] Through introductions, the fish can be found in the United States in Texas, Alabama, Florida, and Nevada. It has also been established in Central and South America, and Southeast Asia.[2] The original stocks of O. aureus in the United States were from Israel.[6]\n",
+        "status": "\nLeast Concern (IUCN 3.1)[1] (Pan-Africa)\n",
+        "scientific": "Oreochromis aureus",
+        "health_benefits": "High Protein, though has a lot of omega-6 fatty acid. ",
+        "quote": "Tilapia has kind of a bad reputation for containing a toxic chemical. However, the ones that are reared in good condition in farms are edible. They are from Africa and are consumed the most in the United States.",
+        "tags": [
+            "Fish",
+            "Tilapia"
+        ],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Doesn't taste fishy. Is mildly sweet, though doesn't have too strong a flavour on its own. Flavour also depends a lot on the growing environment. ",
+        "Texture": "Lean and firm with a flaky texture"
+    },
+    {
+        "title": "Mozambique_Tilapia",
+        "name": "Mozambique_Tilapia",
+        "url": "https://en.wikipedia.org/wiki/American_paddlefish",
+        "description": "The Mozambique tilapia (Oreochromis mossambicus) is an oreochromine cichlid fish native to southeastern Africa. Dull-colored, the Mozambique tilapia often lives up to a decade in its native habitats. It is a popular fish for aquaculture. Due to human introductions, it is now found in many tropical and subtropical habitats around the globe, where it can become an invasive species because of its robust nature. These same features make it a good species for aquaculture because it readily adapts to new situations.  It is known as the black tilapia in Colombia[2] and as the blue kurper in South Africa.[3]\nThe native Mozambique tilapia is laterally compressed, and has a deep body with long dorsal fins, the front part of which have spines. Native coloration is a dull greenish or yellowish, and weak banding may be seen. Adults reach up to 39 cm (15 in) in standard length and up to 1.1 kg (2.4 lb).[4] Size and coloration may vary in captive and naturalized populations due to environmental and breeding pressures. It lives up to 11 years.[4]\nThe Mozambique tilapia is native to inland and coastal waters in southeastern Africa, from the Zambezi Basin in Mozambique, Malawi, Zambia and Zimbabwe to the Bushman River in South Africa's Eastern Cape province.[1][5]  It is threatened in its home range by the introduced Nile tilapia (Oreochromis niloticus). In addition to competing for the same resources, the two readily hybridize.[1][6] This has already been documented from the Zambezi and Limpopo Rivers, and it is expected that pure Mozambique tilapia eventually will disappear from both.[1]\n",
+        "status": "\nVulnerable (IUCN 3.1)[1]\n",
+        "scientific": "Oreochromis mossambicus",
+        "health_benefits": "High Protein, though has a lot of omega-6 fatty acid. ",
+        "quote": "Tilapia has kind of a bad reputation for containing a toxic chemical. However, the ones that are reared in good condition in farms are edible. They are from Africa and are consumed the most in the United States.",
+        "tags": [
+            "Fish",
+            "Tilapia"
+        ],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Doesn't taste fishy. Is mildly sweet, though doesn't have too strong a flavour on its own. Flavour also depends a lot on the growing environment. ",
+        "Texture": "Lean and firm with a flaky texture"
+    },
+    {
+        "title": "Bighead_Carp",
+        "name": "Bighead Carp",
+        "url": "https://en.wikipedia.org/wiki/Bighead_carp",
+        "description": "The bighead carp (Hypophthalmichthys nobilis) is a species of cyprinid freshwater fish native to East Asia, and is one of several Asian carps introduced into North America. It is one of the most intensively exploited fishes in fish farming, with an annual worldwide production of over three million tonnes in 2013, principally from China.[2] Unlike the omnivorous common carp, bighead carp are primarily filter-feeders, preferentially consuming zooplankton but also phytoplankton and detritus.\nThe bighead carp has a large, scaleless head, a large mouth, and eyes located very low on the head. Adults usually have a mottled silver-gray coloration. It is a large fish; a typical length is 60 cm (2 ft), and maximum observed size of 146 cm (4 ft 9 in) and 40 kg (88 lb).[3]\nBighead carp are native to large rivers and are associated with floodplain lakes of eastern Asia. Their range extends from southern China north to the Amur River system, which forms the border between China and Russia.[4] They have been introduced widely outside their native range, including in the United States, where they are considered invasive[3] as they out-compete native species (e.g. Bigmouth Buffalo).[5] They are also found in the Nile in North Africa.\n",
+        "status": "\nData Deficient (IUCN 3.1)[1]\n",
+        "scientific": "Hypophthalmichthys nobilis",
+        "health_benefits": "High protein, and a healthy amount of vitamin B12 and potassium.",
+        "quote": "While considered a delicacy in much of the world, carp have a terrible reputation in the United States, mostly among people who have never eaten one.",
+        "tags": ["Fish", "Carp", "Resentful"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Tender, white, mild with no “fishy” taste.",
+        "Texture": "Firm and Smooth in texture"
+    },
+    {
+        "title": "Crucian_Carp",
+        "name": "Crucian Carp",
+        "url": "https://en.wikipedia.org/wiki/Crucian_carp",
+        "description": "The crucian carp (Carassius carassius) is a medium-sized member of the common carp family Cyprinidae. It occurs widely in northern European regions. Its name derives from the Low German karusse or karutze, possibly from Medieval Latin coracinus (a kind of river fish).\nThe crucian carp is a widely distributed European species, its range spanning from England to Russia; it is found as far north as the Arctic Circle in the Scandinavian countries, and as far south as central France and the region of the Black Sea.[3]  Its habitat includes lakes, ponds, and slow-moving rivers. It has been established that the fish is native to England and not introduced.[4]\nThe crucian carp is a medium-sized cyprinid, typically 15 centimetres (5.9 in) in body length, and rarely exceeds in weight over 2 kilograms (4.4 lb),[5] but a maximum total length of 64 centimetres (25 in) has been reported for a male,[6] and the heaviest published weighed 3 kilograms (6.6 lb).[7]\n",
+        "status": "\nLeast Concern (IUCN 3.1)[1]\n",
+        "scientific": "Carassius carassius",
+        "health_benefits": "High protein, and a healthy amount of vitamin B12 and potassium.",
+        "quote": "While considered a delicacy in much of the world, carp have a terrible reputation in the United States, mostly among people who have never eaten one.",
+        "tags": ["Fish", "Carp"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Tender, white, mild with no “fishy” taste.",
+        "Texture": "Firm and Smooth in texture"
+    },
+    {
+        "title": "Humboldt_Squid",
+        "name": "Humboldt Squid",
+        "url": "https://en.wikipedia.org/wiki/Humboldt_squid",
+        "description": "The Humboldt squid (Dosidicus gigas), also known as jumbo squid or jumbo flying squid (EN), and Pota in Peru or Jibia in Chile (ES) is a large, predatory squid living in the eastern Pacific Ocean. It is the only known species of the genus Dosidicus of the subfamily Ommastrephinae, family Ommastrephidae.[3]\nHumboldt squid typically reach a mantle length of 1.5 m (4 ft 11 in), making the species the largest member of its family. They are the most important squid worldwide for commercial fisheries, with the catch predominantly landed in Chile, Peru and Mexico, however, a 2015 warming waters fishery collapse in the Gulf of California remains unrecovered.[4][5] Like other members of the subfamily Ommastrephinae, they possess chromatophores which enable them to quickly change body coloration, known as 'metachrosis’ which is the  rapid flash of their skin from red to white. They have a relatively short lifespan of just 1–2 years. They have a reputation for aggression toward humans, although this behavior may only occur during feeding times.\nThey are most commonly found at depths of 200 to 700 m (660 to 2,300 ft), from Tierra del Fuego to California. This species is spreading north into the waters of the Pacific Northwest, in Oregon, Washington, British Columbia, and Alaska.\n",
+        "status": "Data Deficient ",
+        "scientific": "Dosidicus gigas",
+        "health_benefits": "Squid has a high content of taurine, vitamin B2, vitamin E, niacin, and potassium as well as EPA and DHA, which are highly unsaturated fatty acids found only in marine foods.",
+        "quote": "Although many of the Pacific Ocean's big species are floundering, one large creature of the deep seems to be flourishing. The Humboldt squid (Dosidicus gigas, also known as jumbo squid, owing to its sizable nature) has been steadily expanding its population and range: whereas sightings north of San Diego were rare 10 years ago, the squid are now found as far north as Alaska.",
+        "tags": ["Cephalopod", "Large"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Reportedly has a soft, moist, and clean taste.",
+        "Texture": "Firm"
+    },
+    {
+        "title": "Japanese_Flying_Squid",
+        "name": "Japanese Flying Squid",
+        "url": "https://en.wikipedia.org/wiki/Japanese_flying_squid",
+        "description": "The Japanese flying squid, Japanese common squid or Pacific flying squid,[3] scientific name Todarodes pacificus, is a squid of the family Ommastrephidae. This animal lives in the northern Pacific Ocean, in the area surrounding Japan, along the entire coast of China up to Russia, then spreading across the Bering Strait east towards the southern coast of Alaska and Canada. They tend to cluster around the central region of Vietnam.\nAdult squid have several distinguishing features. The mantle encloses the visceral mass of the squid, and has two fins, which are not the primary method of propulsion. Instead, the squid has a siphon, a muscle which takes in water from one side, and pushes it out the other side: jet propulsion. The squid has eight arms and two tentacles with suction cups along the backs. In between the arms sits the mouth, or beak. Inside the mouth is a tooth-tongue-like appendage called the radula. Squid have ink sacs, which they use as a defense mechanism against possible predators. Squid also have three hearts.[4]\nThe age of a squid can be determined on the basis of growth rings when additions are appended daily to the statoliths, balance organs in the back of the squid's head. This species of squid can weigh up to 0.5 kg. Mantle length in females can go up to 50 cm; males are smaller.[5]\n",
+        "status": "Least Concern",
+        "scientific": "Todarodes pacificus",
+        "health_benefits": "Squid has a high content of taurine, vitamin B2, vitamin E, niacin, and potassium as well as EPA and DHA, which are highly unsaturated fatty acids found only in marine foods.",
+        "quote": "Squid are difficult to study individually in the lab, because the animals appear to become stressed by isolation",
+        "tags": ["Cephalopod", "Ika"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Reportedly has a soft, moist, and clean taste, enhanced by simmering or roasting",
+        "Texture": "Chewy and Firm"
+    },
+    {
+        "title": "Octopus",
+        "name": "Octopus",
+        "url": "https://en.wikipedia.org/wiki/Octopus",
+        "description": "An octopus (PL: octopuses or octopodes, see below for variants) is a soft-bodied, eight-limbed mollusc of the order Octopoda (/ɒkˈtɒpədə/, ok-TOP-ə-də[3]). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the center point of the eight limbs.[a] The soft body can radically alter its shape, enabling octopuses to squeeze through small gaps. They trail their eight appendages behind them as they swim. The siphon is used both for respiration and for locomotion, by expelling a jet of water. Octopuses have a complex nervous system and excellent sight, and are among the most intelligent and behaviourally diverse of all invertebrates.\n",
+        "status": "Octopus Fisheries, especially in Asia, are overfished.",
+        "scientific": "Octopus",
+        "health_benefits": "A source of lean protein that is low in calories, fat, and carbohydrates but high in amino acids.",
+        "quote": "It’s well-known for having eight legs and being one of the most intelligent creatures in the sea.",
+        "tags": ["Cephalopod", "Octopus"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Has a delicate taste of milder squid or shellfish. It's flavour is mainly influenced by the method of preparation. ",
+        "Texture": "Chewy and Firm"
+    },
+    {
+        "title": "Tiger_Prawn",
+        "name": "Tiger Prawn",
+        "url": "https://oceana.org/marine-life/tiger-prawn/",
+        "description": "Tiger prawns progress through several life history stages in a short amount of time and mature quickly. Adults live on soft bottoms. Unlike many aquatic invertebrates, tiger prawns reproduce via internal fertilization. After mating, females release hundreds of thousands of fertilized eggs, which quickly hatch. Planktonic larvae live in the open ocean, and juveniles live in estuaries, before moving to the preferred adult habitat near the age of maturation. Like in all decapods, the tiger prawn’s shell really is a skeleton on the outside of its body. The exoskeleton does not expand, and therefore the prawn must molt (or shed) it regularly in order to grow bigger. Before molting, an individual begins building a new, larger skeleton inside the existing one. As it gets too big to be contained, it splits open the outer shell, and the new exoskeleton hardens. During this process, the new exoskeleton can be soft for several hours, and the prawn is highly vulnerable to predation.",
+         "status": "Least Concern",
+        "scientific": "Penaeus monodon",
+        "health_benefits": "A source of lean protein that is low in calories, fat, and carbohydrates but high in amino acids.",
+        "quote": "Prawns are a delicacy enjoyed everywhere.",
+        "tags": ["Prawn", "Crustacean"],
+        "img": "",
+        "cuisine_img": "",
+        "liked": false,
+        "Taste": "Gentle and mildly sweet",
+        "Texture": "Chewy but soft"
+    }
+]
+

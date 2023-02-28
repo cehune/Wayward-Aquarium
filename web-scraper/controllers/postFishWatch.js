@@ -1,14 +1,12 @@
 
 import fs from 'fs'
-const lower = 111; 
-const upper = 115;
+
 
 export const getFishWatch = response => {
         
-    const url = "https://www.fishwatch.gov/"
+    const url = ""
     const fishInfo = response.data;
-    
-    console.log(typeof fishInfo)
+
     console.log("cute trans girl!! need confidence awa");
     let titles = []
     let articles = {};
@@ -18,6 +16,7 @@ export const getFishWatch = response => {
         titles[count] = title;
         articles[title] = {
             title: title,
+            name: title,
             url: url,
             description: fishInfo[count]["Biology"],
             status: fishInfo[count]["Population Status"],
@@ -35,7 +34,6 @@ export const getFishWatch = response => {
 
     }
 
-    console.log(titles)
     console.log(JSON.stringify(articles))
 
      //"DATA ONLY AVAILABLE FOR STINGRAYS IN GENERAL."

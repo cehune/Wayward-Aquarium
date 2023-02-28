@@ -1,0 +1,28 @@
+.category{
+    background: white;
+    text-align: left;
+    height: 100vh;
+    padding: 10vh;
+    .members{
+
+        
+            padding-top: 2vh;
+            padding-left: 2vh;
+            padding-right: 2vh;
+            padding-bottom: 2vh;
+            display:flex;
+            border: solid grey 1px;
+
+            .members2{
+
+            }
+            .members2{
+                padding-left: 3vh
+            }
+            .link{
+                text-decoration: none;
+                font-size: 25px;
+            }
+        }
+    
+}

@@ -11,13 +11,16 @@ export const Navbar = ({info, setInfo, fish, setFish, gallery, setGallery, setCo
         <AppBar position='fixed' sx={{background: "#313432"}}>
             <Toolbar sx={{display: "flex", justifyContent:"space-between"}}>
                 <div>
-                <Link  to='/' style={{textDecoration:"none", }}>
-                    <div className="iconlink" style={{}}>
-                        <Typography variant='h4'className="icon"sx={{fontSize:25,":hover":{color: "#A0B4FC "}}} >wayward aquarium</Typography>
+                <Link  to='/' className='link' style={{textDecoration:"none"}} onClick={()=> {
+                    window.scrollTo(0, 0)
+                }}>
+                    <div className="iconlink" >
+                        <h4 className='iconfull'>wayward aquarium</h4>
+                        <h4 className='iconsmall'>wa</h4>
                     </div>
                 </Link>
                 </div>
-                <div style={{display:"flex"}}>
+                <div style={{display:"flex", alignItems:'center'}}>
                     <RandButton info={info} 
                         setInfo={setInfo}
                         fish={fish}
