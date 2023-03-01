@@ -51,45 +51,30 @@ function App() {
             />
             <Route path='fishCategory' element={<FishCategory info={info}
               setInfo={setInfo}
-              fish={fish}
               setFish={setFish}
               setGallery={setGallery}
-              gallery={gallery}
               setCookedGallery={setCookedGallery}
-              cookedGallery={cookedGallery} />} />
+              />} />
             <Route path='sharkCategory' element={<SharkCategory info={info}
               setInfo={setInfo}
-              fish={fish}
               setFish={setFish}
               setGallery={setGallery}
-              gallery={gallery}
-              setCookedGallery={setCookedGallery}
-              cookedGallery={cookedGallery} />} />
+              setCookedGallery={setCookedGallery} />} />
             <Route path='molluscCategory' element={<MolluscCategory info={info}
               setInfo={setInfo}
-              fish={fish}
               setFish={setFish}
               setGallery={setGallery}
-              gallery={gallery}
-              setCookedGallery={setCookedGallery}
-              cookedGallery={cookedGallery} />} />
+              setCookedGallery={setCookedGallery}/>} />
             <Route path='crustaceanCategory' element={<CrustaceanCategory
-              info={info}
               setInfo={setInfo}
-              fish={fish}
               setFish={setFish}
               setGallery={setGallery}
-              gallery={gallery}
-              setCookedGallery={setCookedGallery}
-              cookedGallery={cookedGallery} />} />
+              setCookedGallery={setCookedGallery} />} />
             <Route path='otherCategory' element={<OtherCategory info={info}
               setInfo={setInfo}
-              fish={fish}
               setFish={setFish}
               setGallery={setGallery}
-              gallery={gallery}
-              setCookedGallery={setCookedGallery}
-              cookedGallery={cookedGallery} />} />
+              setCookedGallery={setCookedGallery} />} />
 
           </Routes>
         </BrowserRouter>

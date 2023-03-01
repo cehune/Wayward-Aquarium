@@ -13,7 +13,7 @@ import './fishCategory.scss'
 import { buttonStyle } from '../../Page/PageStyles'
 
 
-export const FishCategory = ({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
+export const FishCategory = ({setInfo, setFish, setGallery, setCookedGallery}) => {
   const fetchPosts = async(URL) => await axios.get(URL)
       .then((res) => {
           setInfo(updateInfo(res))

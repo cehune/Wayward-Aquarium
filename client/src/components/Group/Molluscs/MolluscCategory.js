@@ -10,7 +10,7 @@ import { fetchGoogleCooked } from '../../../api/googleSearch'
 import '../groupstyle.scss'
 import { buttonStyle } from '../../Page/PageStyles'
 
-export const MolluscCategory = ({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
+export const MolluscCategory = ({setInfo, setFish, setGallery, setCookedGallery}) => {
   const fetchPosts = async(URL) => await axios.get(URL)
       .then((res) => {
           setInfo(updateInfo(res))

@@ -1,28 +1,29 @@
+//The icon on the left of the navbar
 .iconlink {
     h4 {
-        color:white;
+        color: white;
     }
-    .iconfull {
 
+    .iconfull {
         display: block;
     }
-    .iconsmall{
+
+    .iconsmall {
         display: none;
     }
 }
 
-
+//responsive ness
 @media (max-width: 800px) {
 
     .iconlink {
-
+        //Just change between icons if too small
         .iconfull {
-
             display: none;
         }
-        .iconsmall{
+
+        .iconsmall {
             display: block;
         }
     }
-
 }

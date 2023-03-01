@@ -7,8 +7,8 @@
     background-size: cover;
     width: 100%;
     height: 70vh;
-
     text-align: left;
+    
     h1 {
         padding-top: 10vh;
         padding-left: 10vh;
@@ -16,8 +16,6 @@
         font-size: 12vh;
     }
     h3 {
-        
-           
         padding-left: 10vh;
         padding-right: 40%;
         color: white;
@@ -28,7 +26,6 @@
     @media (max-width: 1200px) and (min-width: 801px) {
         height: 75vh;
         h1 {
-
             font-size: 10vh;
         }
         h3 { 
@@ -39,6 +36,7 @@
             font-weight: 100
         }
     }
+
     @media (max-width: 800px) {
         height: 75vh;
         h1 {
@@ -50,7 +48,6 @@
             color: white;
             font-size: 4vh;
             font-weight: 100
-            
         }
     }
 }
