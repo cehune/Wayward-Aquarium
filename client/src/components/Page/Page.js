@@ -1,12 +1,9 @@
 import React from 'react'
-import { useSelector } from 'react-redux';
-import { FerrisWheelSpinner } from 'react-spinner-overlay'
 import { Gallery } from './Gallery/Gallery';
 import { Info } from './Info/Info';
-import { Route, Routes, Link } from 'react-router-dom';
 import { Button } from '@mui/material';
 import './page.scss'
-import { Theme } from '@mui/material';
+
 import { buttonStyleActive, buttonStyleAsleep } from './PageStyles';
 
 export const Page = ({ info, gallery, cookedGallery, seeInfo, setSeeInfo }) => {
