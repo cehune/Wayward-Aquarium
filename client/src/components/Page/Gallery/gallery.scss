@@ -1,9 +1,12 @@
 .gallery {
     display: flex;
+    padding-top: 5vh;
+
     .collumn {
         width: 33%;
         overflow: hidden;
-        img{
+
+        img {
             object-fit: contain;
             width: 100%;
 

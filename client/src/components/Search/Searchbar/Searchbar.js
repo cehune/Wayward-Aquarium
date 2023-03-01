@@ -8,7 +8,7 @@ import {useNavigate} from 'react-router-dom';
 import { updateInfo } from '../UpdateInfo';
 
 
-export const Searchbar=({info, setInfo, fish, setFish, gallery, setGallery, setCookedGallery, cookedGallery}) => {
+export const Searchbar=({ setInfo, setFish, setGallery, setCookedGallery}) => {
   const [inputValue, setInputValue] = useState('');
   const navigate = useNavigate();
   const fetchPosts = async(URL) => await axios.get(URL)
@@ -31,12 +31,12 @@ export const Searchbar=({info, setInfo, fish, setFish, gallery, setGallery, setC
 
       <Autocomplete 
 
-        onChange={(event, newFish) => {
+        onChange={async (event, newFish) => {
           if (newFish !== null) {
             setFish(newFish);
             fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${newFish}`)]}`);
             fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
-            fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
+            await fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
 
             if (window.location.pathname !== '/fish') {
               return navigate('/fish')

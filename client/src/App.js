@@ -1,4 +1,4 @@
-import react, {useState} from 'react'
+import react, { useState } from 'react'
 import './App.css';
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { Page } from './components/Page/Page';
@@ -14,104 +14,86 @@ import { OtherCategory } from './components/Group/Other/OtherCategory';
 
 import { Navbar } from './components/Navbar/Navbar';
 function App() {
-    const [info, setInfo] = useState(default_fish);
-    const [fish, setFish] = useState(default_fish.title);
-    const [gallery, setGallery] = useState(gallery_imgs)
-    const [cookedGallery, setCookedGallery] = useState(gallery_imgs)
-    const [seeInfo, setSeeInfo] = useState(true)
-    
+  const [loading, setLoading] = useState(false)
+  const [info, setInfo] = useState(default_fish);
+  const [fish, setFish] = useState(default_fish.title);
+  const [gallery, setGallery] = useState(gallery_imgs)
+  const [cookedGallery, setCookedGallery] = useState(gallery_imgs)
+  const [seeInfo, setSeeInfo] = useState(true)
+
   return (
-      
+
 
     <div className="App">
       <header className="App-header">
         <BrowserRouter>
-            <Navbar info={info} 
-                       setInfo={setInfo}
-                       fish={fish}
-                       setFish={setFish}
-                       setGallery={setGallery}
-                       gallery={gallery}
-                       setCookedGallery={setCookedGallery}
-                       cookedGallery={cookedGallery}/>
-           
-            { /*<Searchbar info={info} 
-                       setInfo={setInfo}
-                       fish={fish}
-                       setFish={setFish}
-                       setGallery={setGallery}
-                       gallery={gallery}
-                       setCookedGallery={setCookedGallery}
-                       cookedGallery={cookedGallery}
-                       />
-            <RandButton info={info} 
-                       setInfo={setInfo}
-                       fish={fish}
-                       setFish={setFish}
-                       setGallery={setGallery}
-                       gallery={gallery}
-                       setCookedGallery={setCookedGallery}
-                       cookedGallery={cookedGallery}
-  />*/}
+          <Navbar info={info}
+            setInfo={setInfo}
+            fish={fish}
+            setFish={setFish}
+            setGallery={setGallery}
+            gallery={gallery}
+            setCookedGallery={setCookedGallery}
+            cookedGallery={cookedGallery}
+            loading={loading}
+            setLoading={setLoading} />
 
-            <Routes>
-                <Route index element={<Home />} />
-                <Route path='fish' element={<Page 
-                                                info={info} 
-                                                setInfo={setInfo}
-                                                fish={fish}
-                                                setFish={setFish}
-                                                setGallery={setGallery}
-                                                gallery={gallery}
-                                                setCookedGallery={setCookedGallery}
-                       cookedGallery={cookedGallery}
-                       seeInfo ={seeInfo}
-                       setSeeInfo={setSeeInfo}/>} />
-                <Route path='fishCategory' element={<FishCategory info={info} 
-                                                              setInfo={setInfo}
-                                                              fish={fish}
-                                                              setFish={setFish}
-                                                              setGallery={setGallery}
-                                                              gallery={gallery}
-                                                              setCookedGallery={setCookedGallery}
-                                                              cookedGallery={cookedGallery}/>}/>
-                <Route path='sharkCategory' element={<SharkCategory info={info} 
-                                                              setInfo={setInfo}
-                                                              fish={fish}
-                                                              setFish={setFish}
-                                                              setGallery={setGallery}
-                                                              gallery={gallery}
-                                                              setCookedGallery={setCookedGallery}
-                                                              cookedGallery={cookedGallery}/>}/>
-                <Route path='molluscCategory' element={<MolluscCategory info={info} 
-                                                              setInfo={setInfo}
-                                                              fish={fish}
-                                                              setFish={setFish}
-                                                              setGallery={setGallery}
-                                                              gallery={gallery}
-                                                              setCookedGallery={setCookedGallery}
-                                                              cookedGallery={cookedGallery}/>}/>
-                <Route path='crustaceanCategory' element={<CrustaceanCategory 
-                                                              info={info} 
-                                                              setInfo={setInfo}
-                                                              fish={fish}
-                                                              setFish={setFish}
-                                                              setGallery={setGallery}
-                                                              gallery={gallery}
-                                                              setCookedGallery={setCookedGallery}
-                                                              cookedGallery={cookedGallery}/>} />
-                <Route path='otherCategory' element={<OtherCategory info={info} 
-                                                              setInfo={setInfo}
-                                                              fish={fish}
-                                                              setFish={setFish}
-                                                              setGallery={setGallery}
-                                                              gallery={gallery}
-                                                              setCookedGallery={setCookedGallery}
-                                                              cookedGallery={cookedGallery}/>}/> 
-                
-            </Routes>
+
+          <Routes>
+            <Route index element={<Home />} />
+            <Route path='fish' element={<Page
+              info={info}
+              setGallery={setGallery}
+              gallery={gallery}
+              cookedGallery={cookedGallery}
+              seeInfo={seeInfo}
+              setSeeInfo={setSeeInfo} />}
+            />
+            <Route path='fishCategory' element={<FishCategory info={info}
+              setInfo={setInfo}
+              fish={fish}
+              setFish={setFish}
+              setGallery={setGallery}
+              gallery={gallery}
+              setCookedGallery={setCookedGallery}
+              cookedGallery={cookedGallery} />} />
+            <Route path='sharkCategory' element={<SharkCategory info={info}
+              setInfo={setInfo}
+              fish={fish}
+              setFish={setFish}
+              setGallery={setGallery}
+              gallery={gallery}
+              setCookedGallery={setCookedGallery}
+              cookedGallery={cookedGallery} />} />
+            <Route path='molluscCategory' element={<MolluscCategory info={info}
+              setInfo={setInfo}
+              fish={fish}
+              setFish={setFish}
+              setGallery={setGallery}
+              gallery={gallery}
+              setCookedGallery={setCookedGallery}
+              cookedGallery={cookedGallery} />} />
+            <Route path='crustaceanCategory' element={<CrustaceanCategory
+              info={info}
+              setInfo={setInfo}
+              fish={fish}
+              setFish={setFish}
+              setGallery={setGallery}
+              gallery={gallery}
+              setCookedGallery={setCookedGallery}
+              cookedGallery={cookedGallery} />} />
+            <Route path='otherCategory' element={<OtherCategory info={info}
+              setInfo={setInfo}
+              fish={fish}
+              setFish={setFish}
+              setGallery={setGallery}
+              gallery={gallery}
+              setCookedGallery={setCookedGallery}
+              cookedGallery={cookedGallery} />} />
+
+          </Routes>
         </BrowserRouter>
-        
+
       </header>
     </div>
   );
