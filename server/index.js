@@ -9,7 +9,7 @@ import cors from 'cors'
 
 const app = express();
 mongoose.set('strictQuery', true);
-const CONNECTION_URL = "mongodb+srv://wayward_zoo:wayward_zoo123@cluster0.hzwgfda.mongodb.net/fish_data?retryWrites=true&w=majority"
+const CONNECTION_URL = "{MongoDB API Connection}"
 
 mongoose.Promise = global.Promise;
 app.use(bodyParser.json({limit: "30mb", extended:true}))
