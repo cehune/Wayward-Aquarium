@@ -17,8 +17,7 @@ export const Searchbar=({info, setInfo, fish, setFish, gallery, setGallery, setC
   })
   const fetchImages = async(URL, cooked) => await axios.get(URL)
       .then((res) => {
-        console.log(res.data.items[0].link)
-        console.log(cooked)
+
           if (cooked !== true) {
             setGallery(fetchGoogle(res))
           } else if (cooked == true) {
@@ -36,11 +35,9 @@ export const Searchbar=({info, setInfo, fish, setFish, gallery, setGallery, setC
           if (newFish !== null) {
             setFish(newFish);
             fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${newFish}`)]}`);
-           // fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
-           // fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
-            
-            console.log(gallery.img1)
-            //if (window.location.pathname)
+            fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
+            fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
+
             if (window.location.pathname !== '/fish') {
               return navigate('/fish')
             }

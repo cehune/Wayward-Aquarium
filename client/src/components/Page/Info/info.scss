@@ -1,0 +1,68 @@
+.intro{
+    display: flex;
+    padding-top: 5vh;
+
+    .left{
+        width: 50%;
+        padding: 2vh;
+        p{
+            margin: 0;
+            font-size: 2.75vh;
+        }
+    }
+    .right{
+        width: 50%;
+        padding: 2vh;
+        img{
+            object-fit: cover;
+            width: 100%;
+        }
+    }
+
+}
+.status {
+    padding: 2vh;
+    font-size: 2.75vh;
+}
+
+.quote {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    margin: 0;
+    h3 {
+        margin: 0;
+    }
+    p{
+        margin:0;
+        padding: 2vh 5%;
+        font-style: italic;
+        letter-spacing: 2.5px;
+    }
+}
+
+.food {
+    padding: 3.5vh 0;
+    .taste {
+        padding: 2vh;
+        h3 {
+            padding-right: 1vh;
+            margin:0;
+        }
+        p{
+            font-size: 2.75vh;
+            margin: 0;
+            
+        }
+    }
+    .texture{
+        padding: 2vh;
+        h3 {
+            padding-right: 1vh;
+            margin:0;
+        }
+        p{
+            font-size: 2.75vh;
+            margin: 0;
+        }
+    }
+}

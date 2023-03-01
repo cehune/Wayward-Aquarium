@@ -271,15 +271,15 @@ export const default_fish = {
 //Gallery imgs default value states.
 //Replace whenever we call the google api to get new images for the fish gallery
 export const gallery_imgs = {
-    img1: "",
-    img2: "",
-    img3: "",
-    img4: "",
-    img5: "",
-    img6: "",
-    img7: "",
-    img8: "",
-    img9: ""
+    img1: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img2: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img3: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img4: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img5: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img6: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img7: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img8: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img9: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg"
 }
 
 /*

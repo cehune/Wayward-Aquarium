@@ -55,6 +55,7 @@ export const members1= ['Crimson Jobfish',
   'Pacific Wahoo',
   'King Mackerel',
   'Greenland Turbot',
+  
   ]
 
   export const members2 = ['Atlantic Wahoo',
@@ -94,4 +95,10 @@ export const members1= ['Crimson Jobfish',
   'Monkfish',
   'Atlantic Mahi Mahi',
   'Cobia',
-  'Atlantic Cod']
+  'Atlantic Cod',
+  "Crucian Carp",
+"Bighead Carp",
+"Mozambique_Tilapia",
+"Blue Tilapia",
+"Nile tilapia",
+"American Paddlefish"]

@@ -1,0 +1,13 @@
+.gallery {
+    display: flex;
+    .collumn {
+        width: 33%;
+        overflow: hidden;
+        img{
+            object-fit: contain;
+            width: 100%;
+
+        }
+    }
+
+}
