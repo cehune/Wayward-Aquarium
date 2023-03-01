@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 
 let dbConnection;
-let uri  = "mongodb+srv://wayward_zoo:wayward_zoo123@cluster0.hzwgfda.mongodb.net/fish?retryWrites=true&w=majority";
+let uri  = "{Mongodb API connection}";
 
 export const connectToDb= (cb) => {
       MongoClient.connect(uri)
