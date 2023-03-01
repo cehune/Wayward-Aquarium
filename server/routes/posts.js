@@ -5,7 +5,7 @@ import {getAllInfo, getOne } from '../controllers/posts.js'
 
 const router = express.Router();
 
-//get fish data
+//get fish data from controllers
 router.get('/', getAllInfo)
 router.get('/:title', getOne)
 // router.post('/', )
