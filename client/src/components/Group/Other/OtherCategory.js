@@ -16,13 +16,13 @@ export const OtherCategory = ({setInfo}) => {
 
   return (
     <div className='category'>
-        <h1>Cephalopods</h1>
+        <h1>Other</h1>
         <div className='members' style={{display:"block"}}> 
         {members.map((element, i) => 
            <div> 
            <Link to='/fish' onClick = {() => {
               window.scrollTo(0, 0);
-              console.log(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`)
+              fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`);
             }} className='link'><Button variant='outlined' sx={buttonStyle}>{element}</Button></Link> 
            </div> 
 

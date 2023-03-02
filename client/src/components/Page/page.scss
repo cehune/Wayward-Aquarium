@@ -8,6 +8,10 @@
     .name{
         margin: 0;
         font-size: 8vh;
+        @media (max-width: 1000px) {
+
+            font-size: 10vh
+        }
     }
     .scientific{
         padding-top: 2vh;
@@ -20,8 +24,9 @@
 }
 .tagSection {
     display: flex;
-    align-items: center;
+
     padding-top: 2vh;
+    flex-wrap: wrap;
     h4 {
         margin: 0;
         padding-right: 1vh;
@@ -29,6 +34,7 @@
     }
     .tags{
         display: flex;
+        flex-wrap: wrap;
        
         div{
             padding: 0.5vh 1vh;
@@ -57,6 +63,7 @@
 }
 .end{
     height: 20vh;
+    padding: 0 10% 2vh 10%;
     background: #2B2B2B;
     p{
         padding-top: 5vh;

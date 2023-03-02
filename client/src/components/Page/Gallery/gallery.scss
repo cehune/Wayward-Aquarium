@@ -12,5 +12,12 @@
 
         }
     }
+    @media (max-width: 1000px) {
+        display: block;
+        .collumn {
+            width: 100%;
+        }
+
+    }
 
 }

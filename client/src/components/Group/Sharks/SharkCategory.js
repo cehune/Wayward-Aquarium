@@ -17,7 +17,7 @@ export const SharkCategory = ({ setInfo}) => {
 
 return (
   <div className='category' >
-  <h1>Cephalopods</h1>
+  <h1>Sharks</h1>
   <div className='members'style={{display:"block"}}> 
   {members.map((element, i) => 
       <div> 

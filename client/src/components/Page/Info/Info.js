@@ -1,6 +1,6 @@
 import React from 'react'
 import './info.scss'
-export const Info = ({ info, gallery }) => {
+export const Info = ({ info}) => {
 
   return (
     <div>

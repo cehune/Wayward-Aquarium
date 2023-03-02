@@ -5,7 +5,7 @@ import { Searchbar } from '../Search/Searchbar/Searchbar'
 import { RandButton } from '../Search/Button/RandButton'
 
 import "./navbar.scss"
-export const Navbar = ({ info, setInfo, setFish, setGallery, setCookedGallery, cookedGallery }) => {
+export const Navbar = ({ info, setInfo, setFish}) => {
     return (
         <div>
             <AppBar position='fixed' sx={{ background: "#313432" }}>
@@ -23,19 +23,14 @@ export const Navbar = ({ info, setInfo, setFish, setGallery, setCookedGallery, c
                     <div style={{ display: "flex", alignItems: 'center' }}>
                         <RandButton info={info}
                             setInfo={setInfo}
-                            setGallery={setGallery}
-                            setCookedGallery={setCookedGallery}
-                             />
+                        />
                         <Searchbar
                             setInfo={setInfo}
                             setFish={setFish}
-                            setGallery={setGallery}
-                            setCookedGallery={setCookedGallery} />
+                        />
                     </div>
                 </Toolbar>
-
             </AppBar>
-
         </div>
     )
 }

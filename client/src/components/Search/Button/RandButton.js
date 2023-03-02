@@ -26,6 +26,6 @@ export const RandButton = ({ setInfo, setGallery, setCookedGallery}) => {
       
  }}style={{textDecoration: "none", color: "black"}}>
   <Button sx={{background: "#B7E5FF", borderRadius:20, padding: 2,marginTop: 2, marginBottom: 2, color: "black"}}
-     variant='contained'>Random Fish</Button></Link>
+     variant='contained'>Random</Button></Link>
   )
 }

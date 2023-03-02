@@ -30,18 +30,18 @@ export const Page = ({ info, favourites, setFavourites,seeInfo, setSeeInfo }) =>
       <div className='favourite'>
           <Button sx={favourites.includes(info.name) ?  {border: "solid 1px red"} : {border: "solid 1px grey"}}
           
-          onClick={()=> {
-            if (!favourites.includes(info.name)) {
-              setFavourites= favourites.push(info.name)
-              setLiked(true)
-            }
-            else {
-              setFavourites=favourites.splice(favourites.indexOf(info.name), 1)
-              setLiked(false)
-            }
-            console.log(liked)
-          }}>
-              <FavoriteIcon sx={favourites.includes(info.name) ?  {color: "red"} : {color: "grey"}}/>
+              onClick={()=> {
+                if (!favourites.includes(info.name)) {
+                  setFavourites= favourites.push(info.name)
+                  setLiked(true)
+                }
+                else {
+                  setFavourites=favourites.splice(favourites.indexOf(info.name), 1)
+                  setLiked(false)
+                }
+                console.log(liked)
+              }}>
+                  <FavoriteIcon sx={favourites.includes(info.name) ?  {color: "red"} : {color: "grey"}}/>
           </Button>
           {favourites.includes(info.name) ? <p>Favourited</p> : <p>Set to Favourites</p>}
 

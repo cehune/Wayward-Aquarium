@@ -8,7 +8,12 @@
         p{
             margin: 0;
             font-size: 2.75vh;
+            @media (max-width: 1000px) {
+
+                font-size: 3.25vh;
+            }
         }
+        
     }
     .right{
         width: 50%;
@@ -18,16 +23,30 @@
             width: 100%;
         }
     }
+    @media (max-width: 800px) {
+        display: block;
+        .left {
+            width: 100%;
+        }
+        .right {
+            width: 100%;
+        }
+
+    }
 
 }
 .status {
     padding: 2vh;
     font-size: 2.75vh;
+    @media (max-width: 1000px) {
+
+        font-size: 3.25vh;
+    }
 }
 
 .quote {
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+    padding: 5vh 0;
+    
     margin: 0;
     h3 {
         margin: 0;
@@ -51,6 +70,10 @@
         p{
             font-size: 2.75vh;
             margin: 0;
+            @media (max-width: 1000px) {
+
+                font-size: 3.25vh;
+            }
             
         }
     }
@@ -63,6 +86,10 @@
         p{
             font-size: 2.75vh;
             margin: 0;
+            @media (max-width: 1000px) {
+
+                font-size: 3.25vh;
+            }
         }
     }
 }

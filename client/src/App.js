@@ -26,8 +26,7 @@ function App() {
             setInfo={setInfo}
             fish={fish}
             setFish={setFish}
-            favourites={favourites}
-            setFavourites={setFavourites} />
+ />
 
           <Routes>
               <Route index element={<Home />} />
@@ -43,8 +42,7 @@ function App() {
               <Route path='sharkCategory' element={<SharkCategory info={info}
                   setInfo={setInfo}/>} />
               <Route path='molluscCategory' element={<MolluscCategory info={info}
-                  setInfo={setInfo}
-                  setFish={setFish}/>} />
+                  setInfo={setInfo}/>} />
               <Route path='crustaceanCategory' element={<CrustaceanCategory
                   setInfo={setInfo}/>} />
               <Route path='otherCategory' element={<OtherCategory info={info}
