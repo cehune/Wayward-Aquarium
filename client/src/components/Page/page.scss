@@ -45,7 +45,16 @@
         }
     }
 }
-
+.favourite {
+    display: flex;
+    align-items: center;
+    padding-bottom: 1vh;
+    p{
+        font-size: 2.5vh;
+        margin: 0;
+        padding-left: 1vh;
+    }
+}
 .end{
     height: 20vh;
     background: #2B2B2B;

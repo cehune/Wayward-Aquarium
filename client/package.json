@@ -21,6 +21,7 @@
     "react-spinner-overlay": "^0.1.33",
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
+    "util": "^0.12.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,5 +47,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }
