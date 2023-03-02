@@ -4,34 +4,22 @@ import React from 'react'
 import axios from "axios";
 import { Link } from "react-router-dom";
 import { options1 } from "../../../fishlist";
-import { fetchGoogle } from "../../../api/googleSearch";
-import { fetchGoogleCooked } from "../../../api/googleSearch";
 
 const apiURL = "http://localhost:5000/api/"
-export const RandButton = ({ setInfo, fish, setFish, gallery, setGallery, setCookedGallery, loading, setLoading,cookedGallery}) => {
+export const RandButton = ({ setInfo, setGallery, setCookedGallery}) => {
 
     const fetchRandPost = async(URL, fish) => await axios.get(URL + fish)
     .then((res) => {
         setInfo(updateInfo(res))
     })
-    const fetchImages = async(URL, cooked) => await axios.get(URL)
-      .then((res) => {
-          if (cooked !== true) {
-            setGallery(fetchGoogle(res))
-          } else if (cooked == true) {
-            setCookedGallery(fetchGoogleCooked(res))
-          }
-  })
 
   return (
     <Link to="/fish" onClick = {()=> {
       
       const randomFish = options1[Math.floor(Math.random() * options1.length)];
-      window.scroll(0,0);
-      fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${randomFish}&searchType=image`, false)
-      fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${randomFish}&searchType=image`, true)
       fetchRandPost(apiURL, randomFish)
-      
+      window.scroll(0,0);
+      //Empty the search bar if theres a fish name in it
       if (document.getElementsByClassName('MuiAutocomplete-clearIndicator').length > 0) {
         document.getElementsByClassName('MuiAutocomplete-clearIndicator')[0].click()
       }

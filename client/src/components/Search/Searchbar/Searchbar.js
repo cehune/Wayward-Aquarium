@@ -3,7 +3,6 @@ import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { options, options1} from '../../../fishlist';
 import axios from 'axios'
-import { fetchGoogle, fetchGoogleCooked } from '../../../api/googleSearch';
 import {useNavigate} from 'react-router-dom';
 import { updateInfo } from '../UpdateInfo';
 
@@ -15,17 +14,6 @@ export const Searchbar=({ setInfo, setFish, setGallery, setCookedGallery}) => {
       .then((res) => {
           setInfo(updateInfo(res))
   })
-  const fetchImages = async(URL, cooked) => await axios.get(URL)
-      .then((res) => {
-
-          if (cooked !== true) {
-            setGallery(fetchGoogle(res))
-          } else if (cooked == true) {
-            setCookedGallery(fetchGoogleCooked(res))
-          }
-  })
-
-
   return (
     <div>
 
@@ -35,8 +23,8 @@ export const Searchbar=({ setInfo, setFish, setGallery, setCookedGallery}) => {
           if (newFish !== null) {
             setFish(newFish);
             fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${newFish}`)]}`);
-            fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
-            await fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyC7rfERpLa72sPFloCJTyzPwOyeZpauM34&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
+           // fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyBdcm6HlX_KMS_4o_lx72SoE8NKU6iAcbk&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
+            //fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyBdcm6HlX_KMS_4o_lx72SoE8NKU6iAcbk&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
             //Once we set the value (by clicking on a suggestion) then it makes the request
             //Clicking a fish is what triggers the change
             if (window.location.pathname !== '/fish') {

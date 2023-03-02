@@ -11,7 +11,7 @@ export const Info = ({ info, gallery }) => {
           <p>{info.description}</p>
         </div>
         <div className='right'>
-          <img src={gallery.img1} alt='image of a fish' />
+          <img src={info.img1} alt='image of a fish' />
         </div>
 
       </div>

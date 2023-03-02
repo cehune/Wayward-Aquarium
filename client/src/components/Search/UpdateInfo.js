@@ -9,11 +9,23 @@ export const updateInfo = (res) => {
         health_benefits: res.data[0].health_benefits,
         quote: res.data[0].quote,
         tags: res.data[0].tags,
-        img: res.data[0].img,
-        cuisine_img: res.data[0].cuisine_img,
         liked: res.data[0].liked,
         Taste: res.data[0].Taste,
-        Texture: res.data[0].Texture
+        Texture: res.data[0].Texture,
+        img1: res.data[0].img1,
+        img2: res.data[0].img2,
+        img3: res.data[0].img3,
+        img4: res.data[0].img4,
+        img5: res.data[0].img5  ,
+        img6: res.data[0].img6,
+        img7: res.data[0].img7,
+        img8: res.data[0].img8,
+        img9: res.data[0].img9,
+        img10: res.data[0].img10,
+        img11: res.data[0].img11,
+        img12: res.data[0].img12,
+        img13: res.data[0].img13,
+        img14: res.data[0].img14,
     }
     return newInfo;
 }

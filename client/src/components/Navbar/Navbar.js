@@ -25,7 +25,7 @@ export const Navbar = ({ info, setInfo, setFish, setGallery, setCookedGallery, c
                             setInfo={setInfo}
                             setGallery={setGallery}
                             setCookedGallery={setCookedGallery}
-                            cookedGallery={cookedGallery} />
+                             />
                         <Searchbar
                             setInfo={setInfo}
                             setFish={setFish}

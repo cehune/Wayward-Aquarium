@@ -6,7 +6,7 @@ import './page.scss'
 
 import { buttonStyleActive, buttonStyleAsleep } from './PageStyles';
 
-export const Page = ({ info, gallery, cookedGallery, seeInfo, setSeeInfo }) => {
+export const Page = ({ info, favourites, setFavourites,seeInfo, setSeeInfo }) => {
 
   return (
 
@@ -23,22 +23,31 @@ export const Page = ({ info, gallery, cookedGallery, seeInfo, setSeeInfo }) => {
 
       </div>
       <h4 className='scientific'>{info.scientific}</h4>
+      <button onClick ={()=> {
+        if (!favourites.includes(info.name)) {
+          setFavourites = favourites.push(info.name)
+        }
+        console.log(favourites)
+      }}> Save as favourite</button>
+
       <hr />
+
       <Button variant='outlined'
         onClick={() => { //switch to the info section
-          if (seeInfo == false) { setSeeInfo(true) }
+          if (seeInfo === false) { setSeeInfo(true) }
         }}
         sx={seeInfo ? buttonStyleActive : buttonStyleAsleep}
       >info</Button>
+      
       <Button variant='outlined'
         onClick={() => { //switch to the info section
-          if (seeInfo == true) { setSeeInfo(false) }
+          if (seeInfo === true) { setSeeInfo(false) }
         }}
         sx={seeInfo ? buttonStyleAsleep : buttonStyleActive}
       >Gallery</Button>
 
       {/* Switch between viewing the info or gallery section based on above button state */}
-      {seeInfo ? <Info info={info} gallery={gallery} /> : <Gallery gallery={gallery} cookedGallery={cookedGallery} />}
+      {seeInfo ? <Info info={info}  /> : <Gallery info={info} />}
 
     </div>
       {/*Footer section */}
