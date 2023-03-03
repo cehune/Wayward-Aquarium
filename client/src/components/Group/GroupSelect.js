@@ -16,7 +16,7 @@ export const GroupSelect = () => {
             <Link to='/sharkCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Sharks</Button></Link>
             <Link to='/molluscCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Molluscs</Button></Link>
             <Link to='/crustaceanCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Crustaceans</Button></Link>
-            <Link to='/otherCategory' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Other</Button></Link>
+            <Link to='/leastFavourites' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Disliked</Button></Link>
             <Link to='/favourites' className='link'onClick={() => window.scrollTo(0, 0)}><Button variant='contained' sx={buttonStyle}>Favourites</Button></Link>
           
       </div>

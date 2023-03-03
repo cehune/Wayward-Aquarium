@@ -24,7 +24,7 @@ export const FishCategory = ({setInfo}) => {
                 <div> 
                 <Link to='/fish' onClick = {() => {
                     window.scrollTo(0, 0);
-                    fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`);
+                    fetchPosts(`https://wayward-379505.uc.r.appspot.com/api/${options1[options.indexOf(`${element}`)]}`);
                 }} className='link'><Button variant='outlined' sx={buttonStyle}>{element}</Button></Link> 
                 </div> 
             )}
@@ -36,7 +36,7 @@ export const FishCategory = ({setInfo}) => {
                     window.scrollTo(0, 0);
                     console.log(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`)
                     fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`);
-                   }} className='link'><Button variant='outlined' sx={{paddingRight: 5, paddingLeft: 5, borderRadius: 6, margin: 1, fontSize: 22, ":hover": {background: "#A0F69C "}}}>{element}</Button></Link> 
+                   }} className='link'><Button variant='outlined' sx={buttonStyle}>{element}</Button></Link> 
                 </div> 
             )}
             </div>

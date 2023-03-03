@@ -24,7 +24,7 @@ export const Favourites = ({favourites, setInfo}) => {
            <Link to='/fish' onClick = {() => {
               
               window.scrollTo(0, 0);
-            fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`);
+            fetchPosts(`https://wayward-379505.uc.r.appspot.com/api/${options1[options.indexOf(`${element}`)]}`);
                }} className='link'><Button variant='outlined' sx={buttonStyle}>{element}</Button></Link> 
            </div> 
 

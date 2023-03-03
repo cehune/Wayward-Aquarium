@@ -22,7 +22,7 @@ export const CrustaceanCategory = ({ setInfo}) => {
           <div>
             <Link to='/fish' onClick={() => {
                 window.scrollTo(0, 0);
-                fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${element}`)]}`)
+                fetchPosts(`privateEndpoint/${options1[options.indexOf(`${element}`)]}`)
              }} className='link'><Button variant='outlined' sx={buttonStyle}>{element}</Button></Link>
           </div>
 
