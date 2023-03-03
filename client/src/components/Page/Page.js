@@ -2,20 +2,12 @@ import React from 'react'
 import { Gallery } from './Gallery/Gallery';
 import { Info } from './Info/Info';
 import { Button } from '@mui/material';
-import FavoriteIcon from '@mui/icons-material/Favorite';
 import './page.scss'
-import { useState } from 'react';
 import { Like } from './Like';
-import SentimentVeryDissatisfiedIcon from '@mui/icons-material/SentimentVeryDissatisfied';
 import { buttonStyleActive, buttonStyleAsleep } from './PageStyles';
 
-
-
 export const Page = ({ info, favourites, leastFavourites, setLeastFavourites, setFavourites,seeInfo, setSeeInfo }) => {
-
-  
   return (
-
     <div><div className='page'>
 
       <h1 className='name'>{info.name}</h1>
@@ -33,8 +25,9 @@ export const Page = ({ info, favourites, leastFavourites, setLeastFavourites, se
           info={info}
           favourites={favourites}
           leastFavourites={leastFavourites}
+          setLeastFavourites={setLeastFavourites}
+          setFavourites={setFavourites}
       />
-    
 
       <hr />
 
