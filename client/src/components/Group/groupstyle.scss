@@ -5,8 +5,16 @@
     text-align: left;
     height: 100vh;
     padding: 10vh;
+    @media (max-width: 1000px) {
+        
+        padding: 3vh
+    }
     h1 {
         padding-top: 3vh;
+        @media (max-width: 1000px) {
+        
+            padding-top: 9vh;
+        }
     }
     .members{
         padding-top: 2vh;
@@ -14,6 +22,10 @@
         padding-right: 2vh;
         padding-bottom: 2vh;
         border: solid grey 1px;
+        @media (max-width: 1000px) {
+        
+            padding: 0
+        }
         .link{
             text-decoration: none;
             font-size: 25px;

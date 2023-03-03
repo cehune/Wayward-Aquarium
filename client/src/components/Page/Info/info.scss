@@ -1,7 +1,12 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .intro{
     display: flex;
     padding-top: 5vh;
-
+    
     .left{
         width: 50%;
         padding: 2vh;
@@ -10,7 +15,7 @@
             font-size: 2.75vh;
             @media (max-width: 1000px) {
 
-                font-size: 3.25vh;
+                font-size: 3vh;
             }
         }
         

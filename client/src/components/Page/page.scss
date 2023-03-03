@@ -5,6 +5,11 @@
     padding-left: 10vh;
     padding-right: 10vh;
     text-align: left;
+    @media (max-width: 1000px) {
+
+        padding-left: 3vh;
+        padding-right: 3vh;
+    }
     .name{
         margin: 0;
         font-size: 8vh;

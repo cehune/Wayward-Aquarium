@@ -3,6 +3,17 @@
     text-align: left;
     height: 100vh;
     padding: 10vh;
+    @media (max-width: 1000px) {
+        
+        padding: 3vh;
+        
+    }
+    h1 {
+        @media (max-width: 1000px) {
+        
+            padding-top: 9vh;
+        }
+    }
     .members{
 
         
@@ -12,12 +23,20 @@
             padding-bottom: 2vh;
             display:flex;
             border: solid grey 1px;
-
-            .members2{
-
+            @media (max-width: 1000px) {
+        
+ 
+                    display: block;
+                    padding: 0;
+                
             }
+            
             .members2{
-                padding-left: 3vh
+                padding-left: 3vh;
+                @media (max-width: 1000px) {
+        
+                    padding: 0
+                }
             }
             .link{
                 text-decoration: none;
