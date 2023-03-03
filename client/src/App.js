@@ -8,7 +8,6 @@ import { FishCategory } from './components/Group/Fish/FishCategory';
 import { MolluscCategory } from './components/Group/Molluscs/MolluscCategory';
 import { SharkCategory } from './components/Group/Sharks/SharkCategory';
 import { CrustaceanCategory } from './components/Group/Crustacean/CrustaceanCategory';
-import { OtherCategory } from './components/Group/Other/OtherCategory';
 import { Favourites } from './components/Group/Favourites/Favourites';
 import { Navbar } from './components/Navbar/Navbar';
 import { LeastFavourites } from './components/Group/Favourites/LeastFavourites';
