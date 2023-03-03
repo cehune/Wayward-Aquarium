@@ -22,9 +22,7 @@ export const Searchbar=({ setInfo, setFish, setGallery, setCookedGallery}) => {
         onChange={async (event, newFish) => {
           if (newFish !== null) {
             setFish(newFish);
-            fetchPosts(`http://localhost:5000/api/${options1[options.indexOf(`${newFish}`)]}`);
-           // fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyBdcm6HlX_KMS_4o_lx72SoE8NKU6iAcbk&cx=537b9c7d871a14705&q=${newFish}&searchType=image`, false)
-            //fetchImages(`https://www.googleapis.com/customsearch/v1?key=AIzaSyBdcm6HlX_KMS_4o_lx72SoE8NKU6iAcbk&cx=537b9c7d871a14705&q=cooked%20${newFish}&searchType=image`, true)
+            fetchPosts(`PrivateEndpoint/${options1[options.indexOf(`${newFish}`)]}`);
             //Once we set the value (by clicking on a suggestion) then it makes the request
             //Clicking a fish is what triggers the change
             if (window.location.pathname !== '/fish') {
@@ -39,7 +37,7 @@ export const Searchbar=({ setInfo, setFish, setGallery, setCookedGallery}) => {
 
         id="controllable-states-demo"
         options={options}
-        sx={{ width: 225, background:"white",  borderRadius:20, margin: 2}}
+        sx={{ width: 200, background:"white",  borderRadius:20, margin: 1, marginRight: 3}}
         renderInput={  (params) => <TextField {...params} label="Search Fish" size="medium" />}
       />
       
