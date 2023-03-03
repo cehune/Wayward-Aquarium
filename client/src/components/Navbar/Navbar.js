@@ -9,7 +9,7 @@ export const Navbar = ({ info, setInfo, setFish}) => {
     return (
         <div>
             <AppBar position='fixed' sx={{ background: "#313432" }}>
-                <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
+                <Toolbar sx={{ display: "flex", justifyContent: "space-between", width: "100%"}}>
                     <div>
                         <Link to='/' className='link' style={{ textDecoration: "none" }} onClick={() => {
                             window.scrollTo(0, 0)

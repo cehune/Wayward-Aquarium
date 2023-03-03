@@ -11,12 +11,13 @@ import { CrustaceanCategory } from './components/Group/Crustacean/CrustaceanCate
 import { OtherCategory } from './components/Group/Other/OtherCategory';
 import { Favourites } from './components/Group/Favourites/Favourites';
 import { Navbar } from './components/Navbar/Navbar';
+import { LeastFavourites } from './components/Group/Favourites/LeastFavourites';
 function App() {
   const [info, setInfo] = useState(default_fish);
   const [fish, setFish] = useState(default_fish.title);
   const [seeInfo, setSeeInfo] = useState(true)
   const [favourites, setFavourites] = useState([])
-
+  const [leastFavourites, setLeastFavourites] = useState([])
   return (
     <div className="App">
       <header className="App-header">
@@ -35,7 +36,9 @@ function App() {
                 seeInfo={seeInfo}
                 setSeeInfo={setSeeInfo}
                 favourites={favourites}
-                setFavourites={setFavourites} />}
+                setFavourites={setFavourites} 
+                leastFavourites = {leastFavourites}
+                setLeastFavourites={setLeastFavourites} />}
               />
               <Route path='fishCategory' element={<FishCategory info={info}
                   setInfo={setInfo}/>} />
@@ -45,9 +48,8 @@ function App() {
                   setInfo={setInfo}/>} />
               <Route path='crustaceanCategory' element={<CrustaceanCategory
                   setInfo={setInfo}/>} />
-              <Route path='otherCategory' element={<OtherCategory info={info}
-                  setInfo={setInfo} />} />
-              <Route path='favourites' element ={<Favourites favourites={favourites} setInfo={setInfo}/>} />
+              <Route path='leastFavourites' element ={<LeastFavourites leastFavourites={leastFavourites} setInfo={setInfo}/>} />
+       <Route path='favourites' element ={<Favourites favourites={favourites} setInfo={setInfo}/>} />
           </Routes>
         </BrowserRouter>
 

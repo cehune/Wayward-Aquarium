@@ -263,24 +263,28 @@ export const default_fish = {
     scientific: "Acanthocybium solandri",
     health_benefits: "Atlantic wahoo is an excellent source of low-fat protein.",
     quote: "U.S. wild-caught Atlantic wahoo is a smart seafood choice because it is sustainably managed and responsibly harvested under U.S. regulations.",
-    tags: [],
+    "tags": [
+        "FISH",
+        "LOVELY"
+    ],
     liked: false,
     Taste: "Mild.",
     Texture: "Firm with a large, circular flake.",
-    img1: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img2: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img3: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img4: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img5: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img6: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img7: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img8: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img9: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img10: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img11: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img12: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img13: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
-    img14: "https://static.pexels.com/photos/162319/cat-pet-furry-face-162319.jpeg",
+    img1: "https://media.fisheries.noaa.gov/styles/full_width/s3/dam-migration/750x500-atlantic_wahoo.jpg?itok=zMe2Ztwi",
+    img2: "https://coastalreview.org/wp-content/uploads/2021/07/atlantic-pacific-wahoo-noaa-shutterstock.jpg",
+    img3: "https://media.fisheries.noaa.gov/styles/original/s3/2022-08/640x427-Wahoo-NOAAFisheries.png?itok=gY1otlzh",
+    img4: "https://images.squarespace-cdn.com/content/v1/5890c07bcd0f685b13dc60bf/1494856932379-1JDV2YFLMQZG2WMW3353/image-asset.png",
+    img5: "https://media.fisheries.noaa.gov/dam-migration/750x500-atlantic_wahoo.jpg",
+    img6: "https://s3.amazonaws.com/busites_www/tsfmag/meta/0920WEB_boyd_1597702483.jpg",
+    img7: "https://www.pewtrusts.org/-/media/post-launch-images/2020/09/wahoo_650.jpg",
+    img8: "https://media.fisheries.noaa.gov/styles/full_width/s3/dam-migration/750x500-atlantic_wahoo.jpg?itok=zMe2Ztwi",
+    img9: "https://www.wikihow.com/images/3/33/Cook-Wahoo-Step-24.jpg",
+    img10: "https://ncseagrant.ncsu.edu/mariners-menu/wp-content/uploads/sites/6/2020/09/Grilled-Bahama-Style-Wahoo-600x400-1.jpg",
+    img11: "https://www.wikihow.com/images/thumb/3/33/Cook-Wahoo-Step-24.jpg/v4-1200px-Cook-Wahoo-Step-24.jpg",
+    img12: "https://img.livestrong.com/630x/photos.demandstudios.com/getty/article/115/216/469781786.jpg?type=webp",
+    img13: "https://fishermanspost.nyc3.digitaloceanspaces.com/wp-content/uploads/2022/12/09173446/more_felton_wahoo-fi.jpg",
+    img14: "https://www.wikihow.com/images/thumb/e/ec/Cook-Wahoo-Step-1.jpg/v4-460px-Cook-Wahoo-Step-1.jpg.webp"
+
 }
 //Gallery imgs default value states.
 //Replace whenever we call the google api to get new images for the fish gallery

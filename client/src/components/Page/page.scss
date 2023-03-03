@@ -56,15 +56,31 @@
         }
     }
 }
-.favourite {
+
+.satisfaction {
     display: flex;
-    align-items: center;
     padding-bottom: 1vh;
-    p{
-        font-size: 2.5vh;
-        margin: 0;
-        padding-left: 1vh;
+    @media (max-width: 1000px) {
+        display: block
     }
+    .innersatisfaction {
+        display: flex;
+        .favourite {
+            display: flex;
+            align-items: center;
+            width: 200px;
+            p{
+                font-size: 2.5vh;
+                margin: 0;
+                padding-left: 1vh;
+            }
+        }
+
+    }
+    @media (max-width: 1000px) {
+
+    }
+    
 }
 .end{
     height: 20vh;
