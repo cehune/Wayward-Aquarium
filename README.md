@@ -1,5 +1,5 @@
-# Wayward-Aquartium-2.0
-The array of life beneath the surface of our true blue deep
+# Wayward-Aquarium
+Full Stack Marine Zoology Site
 ## [See Demo](http://wayward-aquarium.surge.sh/)
 ![image](https://user-images.githubusercontent.com/71574223/222857364-6c998253-816e-43b0-a325-7510fca32dbc.png)
 ![image](https://user-images.githubusercontent.com/71574223/222857391-72e2d79b-e973-4905-b6b1-1fe75783e25b.png)
